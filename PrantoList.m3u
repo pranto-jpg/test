@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Boishakhi TV",Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+
+#EXTINF:-1 tvg-name="DD Bangla",DD Bangla
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+
+#EXTINF:-1 tvg-name="High News",High News
+https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+
+#EXTINF:-1 tvg-name="ion TV",ion TV
+https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
+
+#EXTINF:-1 tvg-name="R Plus",R Plus
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+
+#EXTINF:-1 tvg-name="TV9 Bangla",TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ZB Bhakti",ZB Bhakti
+https://server.zillarbarta.com/zbbhakti/index.m3u8
+
+#EXTINF:-1 tvg-name="ZB Music",ZB Music
+https://server.zillarbarta.com/zbmusic/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC News",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-name="GB News",GB News
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 tvg-name="ABC News",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Comedy",Pluto TV (Comedy)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-name="DW",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
