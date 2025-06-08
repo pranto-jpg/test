@@ -123,6 +123,9 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Cricket", Sky Sports Cricket
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric
 
+#EXTINF:-1 tvg-name="Sky Sports UK", Sky Sports UK
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNS9tb25vLm0zdTg=.m3u8
+
 #EXTINF:-1 tvg-name="Star Sports 1 HD", Star Sports 1 HD
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
 
