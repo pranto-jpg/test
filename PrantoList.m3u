@@ -131,3 +131,6 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/D
 
 #EXTINF:-1 tvg-name="National Geographic HD", National Geographic HD
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/NationalGeographyHD.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera English", Al Jazeera
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8
