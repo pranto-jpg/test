@@ -142,6 +142,9 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-name="GB News", GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
+#EXTINF:-1 tvg name="Sony Comedias", Sony Comedias
+https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Bloomberg", Bloomberg
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 
