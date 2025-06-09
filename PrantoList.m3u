@@ -62,6 +62,9 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTINF:-1 tvg-name="Ruposhi", Ruposhi
 https://cdn-4.pishow.tv/live/1039/master.m3u8
 
+#EXTINF:-1 tvg-name="Republic Bangla", Republic Bangla
+https://otttv.co.in/d2h/livestream/r-bangla/master.m3u8
+
 #EXTINF:-1 tvg-name="High News", High News
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 
@@ -107,11 +110,29 @@ http://watchindia.net:8880/live/40972/04523/840.m3u8
 #EXTINF:-1 tvg-name="Zee Bollywood", Zee Bollywood
 http://watchindia.net:8880/live/40972/04523/822.m3u8
 
+#EXTINF:-1 tvg-name="Zee Anmol", Zee Anmol
+http://watchindia.net:8880/live/40972/04523/813.m3u8
+
+#EXTINF:-1 tvg-name="Zing", Zing
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+
+#EXTINF:-1 tvg-name="Zoom", Zoom
+http://watchindia.net:8880/live/40972/04523/842.m3u8
+
 #EXTINF:-1 tvg-name="Zee Bangla HD", Zee Bangla HD
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/ZeeBanglaHd.m3u8
 
 #EXTINF:-1 tvg-name="Star Jalsha HD", Star Jalsha HD
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarJalshaHd.m3u8
+
+#EXTINF:-1 tvg name="The Q", The Q
+https://otttv.co.in/d2h/livestream/the-q/master.m3u8
+
+#EXTINF:-1 tvg name="Pogo", Pogo
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Space Toon", Space Toon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 
 ### 🌐 International Channels
 
@@ -123,6 +144,9 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
 #EXTINF:-1 tvg-name="Bloomberg", Bloomberg
 https://bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 tvg-name="Russia Today", Russia Today
+https://otttv.co.in/d2h/livestream/russia-today/master.m3u8
 
 #EXTINF:-1 tvg-name="ABC News", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -138,6 +162,9 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-name="TNT Sports 3", TNT Sports 3
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
+
+#EXTINF:-1 tvg-name="Redbull Tv", RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-name="Willow 2", Willow 2
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
