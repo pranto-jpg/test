@@ -3,7 +3,8 @@
 ### 🇧🇩 Bangladeshi Channels
 
 #EXTINF:-1 tvg-name="Boishakhi TV", Boishakhi TV
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/master.m3u8
+##Backuphttps://boishakhi sonarbanglatv com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV", BTV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
@@ -13,6 +14,21 @@ http://208.86.19.13:81/514.stream/index.m3u8
 
 #EXTINF:-1 tvg-name="T Sports", T Sports
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TSports.m3u
+
+#EXTINF:-1 tvg-name="Channel I HD", Channel I HD
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/master.m3u8
+
+#EXTINF:-1 tvg-name="ATN Bangla HD", ATN Bangla HD
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/master.m3u8
+
+#EXTINF:-1 tvg-name="Ekattor TV HD", Ekattor TV HD
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/sonamul.haq.siyam.m3u8
+
+#EXTINF:-1 tvg-name="Independent", Independent
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/sonamul.haq.siyam.m3u8
+
+#EXTINF:-1 tvg-name="My TV", My TV
+https://mytvbangla.com/0.m3u8
 
 #EXTINF:-1 tvg-name="Deepto TV", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
@@ -42,6 +58,9 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/master.m3u8
 
 #EXTINF:-1 tvg-name="DD Bangla", DD Bangla
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+
+#EXTINF:-1 tvg-name="Ruposhi", Ruposhi
+https://cdn-4.pishow.tv/live/1039/master.m3u8
 
 #EXTINF:-1 tvg-name="High News", High News
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
