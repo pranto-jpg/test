@@ -95,6 +95,12 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-name="Enterr10 Bangla", Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
+#EXTINF:-1 tvg-name="Sony Liv HD", Sony Liv HD
+https://ml@dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
+
+#EXTINF:-1 tvg-name="& Flix HD", & Flix HD
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/AndFlixHd.m3u8
+
 #EXTINF:-1 tvg-name="TLC", TLC
 http://watchindia.net:8880/live/40972/04523/840.m3u8
 
