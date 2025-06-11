@@ -36,6 +36,9 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-name="Masranga TV", Masranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="SATV HD", SATV HD
+https://aynapubluc.vercel.app/api/stream/d07563b0-7580-4cbd-a7c9-e67535c0164a.m3u8?%7Cuser-agent=@xfireflix
+
 #EXTINF:-1 tvg-name="Me TV", Me TV
 https://iptvbd.live/metv1080/1080.m3u8
 
@@ -113,8 +116,11 @@ http://watchindia.net:8880/live/40972/04523/822.m3u8
 #EXTINF:-1 tvg-name="Zee Anmol", Zee Anmol
 http://watchindia.net:8880/live/40972/04523/813.m3u8
 
-#EXTINF:-1 tvg-name="Zing", Zing
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+#EXTINF:-1 tvg-name="Star Plus HD", Star Plus HD
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarPlusHd.m3u8
+
+#EXTINF:-1 tvg-name="India TV HD", India Tv HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-indiatv-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Zoom", Zoom
 http://watchindia.net:8880/live/40972/04523/842.m3u8
@@ -127,6 +133,9 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/Sta
 
 #EXTINF:-1 tvg name="The Q", The Q
 https://otttv.co.in/d2h/livestream/the-q/master.m3u8
+
+#EXTINF:-1 tvg-name="MTV HD", MTV HD
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/MTVHD.m3u8
 
 #EXTINF:-1 tvg name="Pogo", Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
