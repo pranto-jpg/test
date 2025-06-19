@@ -13,7 +13,7 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/master.m3u8
 http://208.86.19.13:81/514.stream/index.m3u8
 
 #EXTINF:-1 tvg-name="T Sports", T Sports
-https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TSports.m3u
+http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Channel I HD", Channel I HD
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/master.m3u8
@@ -147,8 +147,8 @@ https://otttv.co.in/d2h/livestream/the-q/master.m3u8
 #EXTINF:-1 tvg-name="Colors HD", Colors HD
 http://xott.live:8080/11224433/11224433/66167
 
-#EXTINF:-1 tvg-name="MTV HD", MTV HD
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/MTVHD.m3u8
+#EXTINF:-1 tvg-name="8xm", 8xm
+http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
 
 #EXTINF:-1 tvg name="Pogo", Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
@@ -160,6 +160,9 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="BBC News", BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-name="CNN HD", CNN HD
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-name="GB News", GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
@@ -228,6 +231,6 @@ http://xott.live:8080/11224433/11224433/206285
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
-https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
