@@ -120,7 +120,11 @@ http://watchindia.net:8880/live/40972/04523/822.m3u8
 http://watchindia.net:8880/live/40972/04523/813.m3u8
 
 #EXTINF:-1 tvg-name="Star Plus HD", Star Plus HD
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarPlusHd.m3u8
+http://xott.live:8080/11224433/11224433/109949
+ ###https raw githubusercontent com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarPlusHd m3u8
+
+#EXTINF:-1 tvg-name="Star Gold HD", Star Gold HD
+http://xott.live:8080/11224433/11224433/109959
 
 #EXTINF:-1 tvg-name="India TV HD", India Tv HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-indiatv-xiaomi/playlist.m3u8
