@@ -194,6 +194,9 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-name="TNT Sports 3", TNT Sports 3
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
 
+#EXTINF:-1 tvg-name="ESPN", ESPN
+http://38.96.178.201/live/ESPNHD/index.m3u8
+
 #EXTINF:-1 tvg-name="Redbull Tv", RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
