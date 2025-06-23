@@ -6,8 +6,7 @@
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
 
 #EXTINF:-1 tvg-name="Boishakhi TV" tvg-logo="https://images.seeklogo.com/logo-png/17/1/boishakhi-tv-logo-png_seeklogo-175644.png", Boishakhi TV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/master.m3u8
-##Backuphttps://boishakhi sonarbanglatv com/boishakhi/boishakhitv/index.m3u8
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-name="Deshi TV", Deshi TV
 http://208.86.19.13:81/514.stream/index.m3u8
@@ -25,7 +24,7 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/master.m3u8
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/sonamul.haq.siyam.m3u8
 
 #EXTINF:-1 tvg-name="GTV HD", GTV HD
-https://aynapubluc.vercel.app/api/stream/b1808fb2-8892-49dc-965e-d038e5334995.m3u8?%7Cuser-agent=@xfireflix
+http://peer19.roarzone.info:8080/roarzone/bk/1/preview.mp4?token=e61b30834d59334831fcf41b001fbacfc5fa2a24-2af758091b4f0df7fdab6e4f84391a6a-1750654073-1750643273
 
 #EXTINF:-1 tvg-name="Independent", Independent
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/sonamul.haq.siyam.m3u8
