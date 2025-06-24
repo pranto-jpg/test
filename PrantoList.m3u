@@ -119,7 +119,7 @@ http://watchindia.net:8880/live/40972/04523/822.m3u8
 http://watchindia.net:8880/live/40972/04523/813.m3u8
 
 #EXTINF:-1 tvg-name="Star Plus HD", Star Plus HD
-http://xott.live:8080/11224433/11224433/109949
+http://filex.tv:8080/Home329/Sohailhome/275037
  ###https raw githubusercontent com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarPlusHd m3u8
 
 #EXTINF:-1 tvg-name="Star Gold HD", Star Gold HD
@@ -182,8 +182,8 @@ https://otttv.co.in/d2h/livestream/russia-today/master.m3u8
 #EXTINF:-1 tvg-name="ABC News", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-name="Pluto Comedy", Pluto TV (Comedy)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web
+#EXTINF:-1 tvg-name="Cartoon Network", Cartoon Network
+http://filex.tv:8080/Home329/Sohailhome/304195
 
 #EXTINF:-1 tvg-name="Disney Channel", Disney Channel
 http://filex.tv:8080/Home329/Sohailhome/246763
