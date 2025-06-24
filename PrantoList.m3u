@@ -185,8 +185,8 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-name="Pluto Comedy", Pluto TV (Comedy)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web
 
-#EXTINF:-1 tvg-name="Adult Swim", Adult Swim
-https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-name="Disney Channel", Disney Channel
+http://filex.tv:8080/Home329/Sohailhome/246763
 
 #EXTINF:-1 tvg-name="DW", DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
