@@ -15,10 +15,10 @@ http://208.86.19.13:81/514.stream/index.m3u8
 http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Channel I HD", Channel I HD
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/master.m3u8
+https://tvsen6.aynaott.com/channeli/index.m3u8?e=1750361566&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=2500904c028b659ebc77930013048b9c
 
 #EXTINF:-1 tvg-name="ATN Bangla HD", ATN Bangla HD
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/master.m3u8
+https://tvsen6.aynaott.com/atnnews/index.m3u8?e=1750361658&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=6c92857362c666e97327aa62d0c7c16e
 
 #EXTINF:-1 tvg-name="Ekattor TV HD", Ekattor TV HD
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/sonamul.haq.siyam.m3u8
@@ -27,7 +27,7 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/sonamul.haq.siyam.m3u8
 http://103.175.242.10:8080/gtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Independent", Independent
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/sonamul.haq.siyam.m3u8
+https://tvsen6.aynaott.com/independenttv/index.m3u8?e=1750361643&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=161fdcab42a6737968f3628f29dc26e3
 
 #EXTINF:-1 tvg-name="My TV", My TV
 https://mytvbangla.com/0.m3u8
@@ -39,25 +39,25 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="SATV HD", SATV HD
-https://aynapubluc.vercel.app/api/stream/d07563b0-7580-4cbd-a7c9-e67535c0164a.m3u8?%7Cuser-agent=@xfireflix
+https://tvsen6.aynaott.com/satv/index.m3u8?e=1750361476&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=ebf16a37c3342a59e9149ea2290732a0
 
 #EXTINF:-1 tvg-name="Me TV", Me TV
 https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 tvg-name="Jamuna TV", Jamuna TV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8
+https://tvsen6.aynaott.com/jamunatv/index.m3u8?e=1750361488&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=4518f8d8bfeee7bf3d52f12d7b026b1d
 
 #EXTINF:-1 tvg-name="Banglavision", Banglavision
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/master.m3u8
 
-#EXTINF:-1 tvg-name="NTV", NTV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/master.m3u8
+#EXTINF:-1 tvg-name="RTV", RTV
+https://tvsen6.aynaott.com/rtv/index.m3u8?e=1750361607&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=119c0a68e9df010d02a8f9915e3a8262
 
 #EXTINF:-1 tvg-name="Somoy TV", Somoy TV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/master.m3u8
+https://tvsen6.aynaott.com/somoytv/index.m3u8?e=1750361563&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=26815086c392d0cae22bfab62de91cbb
 
 #EXTINF:-1 tvg-name="Channel 24", Channel 24
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/master.m3u8
+https://tvsen6.aynaott.com/channel24/index.m3u8?e=1750361656&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=5cc482ae53647ece9ab708e8a21232ff
 
 ### 🇮🇳 Indian Channels
 
@@ -103,8 +103,8 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-name="Enterr10 Bangla", Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Sony Liv HD", Sony Liv HD
-https://ml@dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
+#EXTINF:-1 tvg-name="B4U Kadak", B4U Kadak
+https://tvsen6.aynaott.com/B4U_Kadak/index.m3u8?e=1750361801&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=18886a5c7ea0b2b7907bb2efef24641a
 
 #EXTINF:-1 tvg-name="& Flix HD", & Flix HD
 http://xott.live:8080/11224433/11224433/66172
@@ -147,14 +147,14 @@ https://otttv.co.in/d2h/livestream/the-q/master.m3u8
 #EXTINF:-1 tvg-name="Colors HD", Colors HD
 http://xott.live:8080/11224433/11224433/66167
 
-#EXTINF:-1 tvg-name="8xm", 8xm
-http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Goldmines", Goldmines
+https://tvsen6.aynaott.com/Goldmines/index.m3u8?e=1750361803&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=8a9bebaceeeee174ab489559195b5df3
 
 #EXTINF:-1 tvg name="Pogo", Pogo
 https://xfireflix.fun/toffeeWd/live.php?id=38060f0d4077&e=.m3u8
 
-#EXTINF:-1 tvg-name="Space Toon", Space Toon
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="HiDost", HiDost
+https://tvsen6.aynaott.com/HiDost/index.m3u8?e=1750361778&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=0ffa93a1502457a2208d344003462725
 
 ### 🌐 International Channels
 
