@@ -183,7 +183,10 @@ https://otttv.co.in/d2h/livestream/russia-today/master.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-name="Cartoon Network", Cartoon Network
-http://filex.tv:8080/Home329/Sohailhome/304195
+https://xfireflix.fun/toffeeWd/live.php?id=206c4fa8e760&e=.m3u8
+
+#EXTINF:-1 tvg-name="Pogo", Pogo
+https://xfireflix.fun/toffeeWd/live.php?id=38060f0d4077&e=.m3u8
 
 #EXTINF:-1 tvg-name="Disney Channel", Disney Channel
 http://filex.tv:8080/Home329/Sohailhome/246763
@@ -226,6 +229,9 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 #EXTINF:-1 tvg-name="Discovery HD", Discovery HD
 http://tv.bdiptv.store/live/restream/restreamkk/98.m3u8
+
+#EXTINF:-1 tvg-name="Animal Planet", Animal Planet
+https://xfireflix.fun/toffeeWd/live.php?id=f70ef199f41d&e=.m3u8
 
 #EXTINF:-1 tvg-name="National Geographic HD", National Geographic HD
 http://xott.live:8080/11224433/11224433/206285
