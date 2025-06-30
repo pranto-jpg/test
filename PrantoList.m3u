@@ -18,7 +18,7 @@ http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/channeli/index.m3u8?e=1750361566&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=2500904c028b659ebc77930013048b9c
 
 #EXTINF:-1 tvg-name="ATN Bangla HD", ATN Bangla HD
-https://tvsen6.aynaott.com/atnnews/index.m3u8?e=1750361658&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=6c92857362c666e97327aa62d0c7c16e
+http://peer19.roarzone.info:8080/roarzone/bk/2/tracks-a1/index.fmp4.m3u8?token=c858172d212195e274c4a9d36a5a54ff8432f816-22d4f69baaed4acb5ade3598ac82ba89-1751290206-1751279406
 
 #EXTINF:-1 tvg-name="Ekattor TV HD", Ekattor TV HD
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/sonamul.haq.siyam.m3u8
@@ -209,14 +209,14 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk
 #EXTINF:-1 tvg-name="TEN Sports", TEN Sports
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sky Sports Cricket", Sky Sports Cricket
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric
+#EXTINF:-1 tvg-name="Sky Sports Main", Sky Sports Main
+https://off1.gogohaalmal.com:1686/hls/skysme.m3u8?md5=vt9vd5S4sCIJjsJpA1Px1w&expires=1751285967
 
 #EXTIINF:-1 tvg-name="Premier Sports 1", Premier Sports 1
 https://vis.dlolcast.com:7058/hls/viaplaysp1.m3u8?md6=6hEE9sQy5UvTRsdeTPBnwQ&expires=1749605157
 
-#EXTINF:-1 tvg-name="Sky Sports UK", Sky Sports UK
-https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-name="Sky Sports zfootball", Sky Sports Football
+https://off1.gogohaalmal.com:1686/hls/skysfott.m3u8?md5=mR6VU7azDdxbMdlI0gyTDw&expires=1751285968
 
 #EXTINF:-1 tvg-name="Star Sports 1 HD", Star Sports 1 HD
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
@@ -231,7 +231,7 @@ http://tv.bdiptv.store/live/restream/restreamkk/98.m3u8
 http://xott.live:8080/11224433/11224433/206285
 
 #EXTINF:-1 tvg-name="Al Jazeera English", Al Jazeera
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8
+https://www.xfireflix.fun/yt/v2/stream.php?video_id=gCNeDWCI0vo&e=.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
