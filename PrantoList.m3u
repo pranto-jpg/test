@@ -2,10 +2,10 @@
 
 ### 🇧🇩 Bangladeshi Channels
 
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://images.seeklogo.com/logo-png/45/1/btv-bangladesh-television-logo-png_seeklogo-459657.png?v=1963097728235387944", BTV
+#EXTINF:-1 tvg-name="BTV", BTV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
 
-#EXTINF:-1 tvg-name="Boishakhi TV" tvg-logo="https://images.seeklogo.com/logo-png/17/1/boishakhi-tv-logo-png_seeklogo-175644.png", Boishakhi TV
+#EXTINF:-1 tvg-name="Boishakhi TV", Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-name="Deshi TV", Deshi TV
