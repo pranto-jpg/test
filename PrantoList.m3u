@@ -50,8 +50,8 @@ https://tvsen6.aynaott.com/jamunatv/index.m3u8?e=1750361488&u=8be812d7-3211-4694
 #EXTINF:-1 tvg-name="Banglavision", Banglavision
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/master.m3u8
 
-#EXTINF:-1 tvg-name="RTV", RTV
-https://tvsen6.aynaott.com/rtv/index.m3u8?e=1750361607&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=119c0a68e9df010d02a8f9915e3a8262
+#EXTINF:-1 tvg-name="Ekushey ETV", Ekushey
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-name="Somoy TV", Somoy TV
 https://tvsen6.aynaott.com/somoytv/index.m3u8?e=1750361563&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=26815086c392d0cae22bfab62de91cbb
@@ -79,6 +79,9 @@ https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 #EXTINF:-1 tvg-name="R Plus", R Plus
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
+#EXTINF:-1 tvg-name="Bangla Plus HD", Bangla Plus
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
 #EXTINF:-1 tvg-name="TV9 Bangla", TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
@@ -103,8 +106,11 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-name="Enterr10 Bangla", Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-name="B4U Kadak", B4U Kadak
-https://tvsen6.aynaott.com/B4U_Kadak/index.m3u8?e=1750361801&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=18886a5c7ea0b2b7907bb2efef24641a
+#EXTINF:-1 tvg-name="B4U Music", B4U Music
+http://watchindia.net:8880/live/40972/04523/2113.m3u8
+
+#EXTINF:-1 tvg-name="Music India", Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
 
 #EXTINF:-1 tvg-name="& Flix HD", & Flix HD
 http://xott.live:8080/11224433/11224433/66172
