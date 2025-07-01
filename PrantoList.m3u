@@ -20,11 +20,11 @@ https://tvsen6.aynaott.com/channeli/index.m3u8?e=1750361566&u=8be812d7-3211-4694
 #EXTINF:-1 tvg-name="ATN Bangla HD", ATN Bangla HD
 http://peer19.roarzone.info:8080/roarzone/bk/2/tracks-a1/index.fmp4.m3u8?token=c858172d212195e274c4a9d36a5a54ff8432f816-22d4f69baaed4acb5ade3598ac82ba89-1751290206-1751279406
 
-#EXTINF:-1 tvg-name="Ekattor TV HD", Ekattor TV HD
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/sonamul.haq.siyam.m3u8
+#EXTINF:-1 tvg-name="NTV", NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 
 #EXTINF:-1 tvg-name="GTV HD", GTV HD
-http://103.175.242.10:8080/gtv/tracks-v1a1/mono.m3u8
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 
 #EXTINF:-1 tvg-name="Independent", Independent
 https://tvsen6.aynaott.com/independenttv/index.m3u8?e=1750361643&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=161fdcab42a6737968f3628f29dc26e3
@@ -97,8 +97,8 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-name="Movie Bangla", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 tvg-name="Sony Aath", Sony Aath
-https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-1 tvg-name="Sun Bangla", Sun Bangla
+https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.ts.m3u8?token=7f38d0aedafbdf89432f452763c2b9b9fcb506e0-19fba13b453ba51f4e3842cd9d680ad3-1746965134-1746954334
 
 #EXTINF:-1 tvg-name="Shemaroo Bollywood", Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -147,8 +147,11 @@ https://xfireflix.fun/toffeeWd/live.php?id=106a66093e92&e=.m3u8
 http://38.96.178.201/live/STARJALSHA/index.m3u8
 ##Backup---https://raw githubusercontent com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarJalshaHd m3u8
 
+#EXTINF:-1 tvg-name="আকাশ ৮", আকাশ ৮
+https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
+
 #EXTINF:-1 tvg-name="Colors Bangla HD", Colors Bangla HD
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
 #EXTINF:-1 tvg name="The Q", The Q
 https://otttv.co.in/d2h/livestream/the-q/master.m3u8
