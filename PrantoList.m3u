@@ -38,6 +38,9 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-name="Masranga TV", Masranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="Ekattor TV", Ekattor TV
+http://peer19.roarzone.info:8080/roarzone/bk/11/index.fmp4.m3u8?token=e0e03dff67d343d3568340a47641bcf77f9029ef-da104b83200bd5e16f2b659071fa7e3a-1751608159-1751597359
+
 #EXTINF:-1 tvg-name="SATV HD", SATV HD
 https://tvsen6.aynaott.com/satv/index.m3u8?e=1750361476&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=ebf16a37c3342a59e9149ea2290732a0
 
@@ -125,8 +128,7 @@ http://watchindia.net:8880/live/40972/04523/822.m3u8
 http://watchindia.net:8880/live/40972/04523/813.m3u8
 
 #EXTINF:-1 tvg-name="Star Plus HD", Star Plus HD
-http://filex.tv:8080/Home329/Sohailhome/275037
- ###https raw githubusercontent com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarPlusHd m3u8
+http://peer19.roarzone.info:8080/roarzone/bk/67/index.fmp4.m3u8?token=b8930a4386950b74230afa9a4cbddcfe00f30a4b-9179e5c5ed863e13e3b3512ac6fb67c7-1751608428-1751597628
 
 #EXTINF:-1 tvg-name="Star Gold HD", Star Gold HD
 http://xott.live:8080/11224433/11224433/66176
@@ -147,6 +149,9 @@ https://xfireflix.fun/toffeeWd/live.php?id=106a66093e92&e=.m3u8
 http://38.96.178.201/live/STARJALSHA/index.m3u8
 ##Backup---https://raw githubusercontent com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarJalshaHd m3u8
 
+#EXTINF:-1 tvg-name="Sony 8", Sony 8
+http://peer19.roarzone.info:8080/roarzone/bk/33/index.fmp4.m3u8?token=d6c425270ca2198bca4059e06f38d25ec48547bf-21fa7796472b9afb25fef86e375648a9-1751608323-1751597523
+
 #EXTINF:-1 tvg-name="আকাশ ৮", আকাশ ৮
 https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
 
@@ -159,6 +164,9 @@ https://otttv.co.in/d2h/livestream/the-q/master.m3u8
 #EXTINF:-1 tvg-name="Colors HD", Colors HD
 http://xott.live:8080/11224433/11224433/66167
 
+#EXTINF:-1 tvg-name="Sony India", Sony India
+http://peer19.roarzone.info:8080/roarzone/bk/38/index.fmp4.m3u8?token=c6e035871e11a6915d0f707b27fa802af81bf44b-c8541a9f543071221d2be644fb423720-1751608667-1751597867
+
 #EXTINF:-1 tvg-name="Goldmines", Goldmines
 https://tvsen6.aynaott.com/Goldmines/index.m3u8?e=1750361803&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=8a9bebaceeeee174ab489559195b5df3
 
@@ -166,7 +174,7 @@ https://tvsen6.aynaott.com/Goldmines/index.m3u8?e=1750361803&u=8be812d7-3211-469
 https://xfireflix.fun/toffeeWd/live.php?id=38060f0d4077&e=.m3u8
 
 #EXTINF:-1 tvg-name="Nick", Nick
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium330%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+http://peer19.roarzone.info:8080/roarzone/bk/55/index.fmp4.m3u8?token=2ae9232b22f92aea8daffb8141dc99fabb07eb0d-98ac80cbf061d7931546dc5868193301-1751608531-1751597731
 
 ### 🌐 International Channels
 
@@ -196,9 +204,6 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-name="Cartoon Network", Cartoon Network
 https://xfireflix.fun/toffeeWd/live.php?id=206c4fa8e760&e=.m3u8
-
-#EXTINF:-1 tvg-name="Pogo", Pogo
-https://xfireflix.fun/toffeeWd/live.php?id=38060f0d4077&e=.m3u8
 
 #EXTINF:-1 tvg-name="Disney Channel", Disney Channel
 http://filex.tv:8080/Home329/Sohailhome/246763
