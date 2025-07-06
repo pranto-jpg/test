@@ -60,7 +60,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://tvsen6.aynaott.com/somoytv/index.m3u8?e=1750361563&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=26815086c392d0cae22bfab62de91cbb
 
 #EXTINF:-1 tvg-name="Channel 24", Channel 24
-https://tvsen6.aynaott.com/channel24/index.m3u8?e=1750361656&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=5cc482ae53647ece9ab708e8a21232ff
+http://172.16.172.114:8083/channel24/tracks-v1a1/mono.m3u8?token=d30b2319f740638c3e3bd55bdad7219d04ad8bd5-3587d6da0752c3cbb8543a38924828b0-1751796416-1751785616
 
 ### 🇮🇳 Indian Channels
 
