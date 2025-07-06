@@ -18,7 +18,7 @@ http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/channeli/index.m3u8?e=1750361566&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=2500904c028b659ebc77930013048b9c
 
 #EXTINF:-1 tvg-name="ATN Bangla HD", ATN Bangla HD
-http://peer19.roarzone.info:8080/roarzone/bk/2/tracks-a1/index.fmp4.m3u8?token=c858172d212195e274c4a9d36a5a54ff8432f816-22d4f69baaed4acb5ade3598ac82ba89-1751290206-1751279406
+http://172.16.172.114:8083/ATNBangla/tracks-v1a1/mono.m3u8?token=7f1c92a43f70f7b7f84cad237dc4266d93535b74-1e5111ba24edeec471bd2325c3d32e03-1751794869-1751784069
 
 #EXTINF:-1 tvg-name="NTV", NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
