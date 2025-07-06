@@ -39,7 +39,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Ekattor TV", Ekattor TV
-http://peer19.roarzone.info:8080/roarzone/bk/11/index.fmp4.m3u8?token=e0e03dff67d343d3568340a47641bcf77f9029ef-da104b83200bd5e16f2b659071fa7e3a-1751608159-1751597359
+http://103.73.106.86:3255/ekattor_nk/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="SATV HD", SATV HD
 https://tvsen6.aynaott.com/satv/index.m3u8?e=1750361476&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=ebf16a37c3342a59e9149ea2290732a0
