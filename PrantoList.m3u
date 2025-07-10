@@ -6,7 +6,7 @@
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
 
 #EXTINF:-1 tvg-name="Boishakhi TV", Boishakhi TV
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+http://peer19.roarzone.info:8080/roarzone/bk/61/index.fmp4.m3u8?token=c563902cb390938fc69041b6672a89f6edae8fce-8446d5724e68e15d872369d5c08d7e0b-1752129148-1752118348
 
 #EXTINF:-1 tvg-name="Deshi TV", Deshi TV
 http://208.86.19.13:81/514.stream/index.m3u8
@@ -18,7 +18,7 @@ http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/channeli/index.m3u8?e=1750361566&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=2500904c028b659ebc77930013048b9c
 
 #EXTINF:-1 tvg-name="ATN Bangla HD", ATN Bangla HD
-http://172.16.172.114:8083/ATNBangla/tracks-v1a1/mono.m3u8?token=7f1c92a43f70f7b7f84cad237dc4266d93535b74-1e5111ba24edeec471bd2325c3d32e03-1751794869-1751784069
+http://172.16.172.114:8083/ATNBangla/index.m3u8?token=1f5580b7798fc9a6c65e6f2af82356d4a6118049-97f9b401007dd0315f4a4932c3645048-1752129593-1752118793
 
 #EXTINF:-1 tvg-name="NTV", NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
@@ -39,7 +39,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Ekattor TV", Ekattor TV
-http://103.73.106.86:3255/ekattor_nk/tracks-v1a1/mono.ts.m3u8
+http://103.73.107.122:3255/ekattor_nk/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="SATV HD", SATV HD
 https://tvsen6.aynaott.com/satv/index.m3u8?e=1750361476&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=ebf16a37c3342a59e9149ea2290732a0
@@ -60,7 +60,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://tvsen6.aynaott.com/somoytv/index.m3u8?e=1750361563&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=26815086c392d0cae22bfab62de91cbb
 
 #EXTINF:-1 tvg-name="Channel 24", Channel 24
-http://172.16.172.114:8083/channel24/tracks-v1a1/mono.m3u8?token=d30b2319f740638c3e3bd55bdad7219d04ad8bd5-3587d6da0752c3cbb8543a38924828b0-1751796416-1751785616
+http://103.73.107.122:3255/CH24/tracks-v1a1/mono.m3u8
 
 ### 🇮🇳 Indian Channels
 
@@ -109,17 +109,17 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-name="Enterr10 Bangla", Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-name="B4U Music", B4U Music
-http://watchindia.net:8880/live/40972/04523/2113.m3u8
+#EXTINF:-1 tvg-name="MTV", MTV
+https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 
 #EXTINF:-1 tvg-name="Music India", Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
-#EXTINF:-1 tvg-name="& Flix HD", & Flix HD
-http://xott.live:8080/11224433/11224433/66172
+#EXTINF:-1 tvg-name="& TV HD", & TV HD
+http://peer19.roarzone.info:8080/roarzone/bk/74/index.fmp4.m3u8?token=41897515bbf943d0bb170bb896130fd5462351b0-8b1df773be411f12b56b8e5235463944-1752128999-1752118199
 
 #EXTINF:-1 tvg-name="TLC", TLC
-http://watchindia.net:8880/live/40972/04523/840.m3u8
+http://103.73.107.122:3255/TLCHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bollywood", Zee Bollywood
 http://watchindia.net:8880/live/40972/04523/822.m3u8
@@ -127,17 +127,17 @@ http://watchindia.net:8880/live/40972/04523/822.m3u8
 #EXTINF:-1 tvg-name="Zee Anmol", Zee Anmol
 http://watchindia.net:8880/live/40972/04523/813.m3u8
 
-#EXTINF:-1 tvg-name="Star Plus HD", Star Plus HD
-http://peer19.roarzone.info:8080/roarzone/bk/67/index.fmp4.m3u8?token=b8930a4386950b74230afa9a4cbddcfe00f30a4b-9179e5c5ed863e13e3b3512ac6fb67c7-1751608428-1751597628
+#EXTINF:-1 tvg-name="ARY DIGITAL HD", ARY DIGITAL HD
+http://103.73.107.122:3255/ARYDigitalasia/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Star Gold HD", Star Gold HD
-http://xott.live:8080/11224433/11224433/66176
+http://peer19.roarzone.info:8080/roarzone/bk/72/index.fmp4.m3u8?token=470bea015b3e19b4e67223873ad97c3911a28052-5b902497d8fe75ba15562916f6e54603-1752129434-1752118634
 
-#EXTINF:-1 tvg-name="Star Movies HD", Star Movies HD
-http://xott.live:8080/11224433/11224433/109970
+#EXTINF:-1 tvg-name="Hallmark Movies HD", Hallmark Movies HD
+https://v2.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8?token=FLDwqjCRzL-pjUC2FrRVtw&expires=1752134887&user_id=cWhNVVVnd0htbDNubVdrcnAxZFJDa3VsREVMeVlLRUpIaERiMDdwcA==
 
-#EXTINF:-1 tvg-name="India TV HD", India Tv HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-indiatv-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-name="India Today HD", India Today HD
+http://103.73.107.122:3255/indiatoday/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Zoom", Zoom
 http://watchindia.net:8880/live/40972/04523/842.m3u8
@@ -149,8 +149,8 @@ https://xfireflix.fun/toffeeWd/live.php?id=106a66093e92&e=.m3u8
 http://38.96.178.201/live/STARJALSHA/index.m3u8
 ##Backup---https://raw githubusercontent com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarJalshaHd m3u8
 
-#EXTINF:-1 tvg-name="Sony 8", Sony 8
-http://peer19.roarzone.info:8080/roarzone/bk/33/index.fmp4.m3u8?token=d6c425270ca2198bca4059e06f38d25ec48547bf-21fa7796472b9afb25fef86e375648a9-1751608323-1751597523
+#EXTINF:-1 tvg-name="Sony Aath", Sony Aath
+http://103.73.107.122:3255/SonyAath/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="আকাশ ৮", আকাশ ৮
 https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
@@ -165,7 +165,7 @@ https://otttv.co.in/d2h/livestream/the-q/master.m3u8
 http://xott.live:8080/11224433/11224433/66167
 
 #EXTINF:-1 tvg-name="Sony India", Sony India
-http://peer19.roarzone.info:8080/roarzone/bk/38/index.fmp4.m3u8?token=c6e035871e11a6915d0f707b27fa802af81bf44b-c8541a9f543071221d2be644fb423720-1751608667-1751597867
+http://103.73.107.122:3255/SonyEntertainmentTelevisionHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Goldmines", Goldmines
 https://tvsen6.aynaott.com/Goldmines/index.m3u8?e=1750361803&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=8a9bebaceeeee174ab489559195b5df3
@@ -173,8 +173,8 @@ https://tvsen6.aynaott.com/Goldmines/index.m3u8?e=1750361803&u=8be812d7-3211-469
 #EXTINF:-1 tvg name="Pogo", Pogo
 https://xfireflix.fun/toffeeWd/live.php?id=38060f0d4077&e=.m3u8
 
-#EXTINF:-1 tvg-name="Nick", Nick
-http://peer19.roarzone.info:8080/roarzone/bk/55/index.fmp4.m3u8?token=2ae9232b22f92aea8daffb8141dc99fabb07eb0d-98ac80cbf061d7931546dc5868193301-1751608531-1751597731
+#EXTINF:-1 tvg-name="Nickelodeon East", Nickelodeon East
+https://v12.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8?token=ZVPP_0xFqoyvC319yRGoBw&expires=1752135171&user_id=cWhNVVVnd0htbDNubVdrcnAxZFJDa3VsREVMeVlLRUpIaERiMDdwcA==
 
 ### 🌐 International Channels
 
@@ -191,7 +191,7 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="HBO HD", HBO HD
-http://xott.live:8080/11224433/11224433/66229
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium321%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 
 #EXTINF:-1 tvg-name="Bloomberg", Bloomberg
 https://bloomberg.com/media-manifest/streams/eu.m3u8
@@ -205,8 +205,11 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network", Cartoon Network
 https://xfireflix.fun/toffeeWd/live.php?id=206c4fa8e760&e=.m3u8
 
-#EXTINF:-1 tvg-name="Disney Channel", Disney Channel
-http://filex.tv:8080/Home329/Sohailhome/246763
+#EXTINF:-1 tvg-name="Discovery Kids", Discovery Kids
+http://103.73.107.122:3255/DiscoveryKids/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Disney", Disney
+http://vthanh.utako.moe/disneychan/index.m3u8
 
 #EXTINF:-1 tvg-name="Disney XD", Disney XD
 https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
@@ -241,8 +244,8 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2F
 #EXTIINF:-1 tvg-name="TUDN", TUDN
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium66%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 
-#EXTINF:-1 tvg-name="beIN Sports", beIN Sports
-https://ott.udptv.org/stream/udptvus/beinsports/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1 tvg-name="DaZn", DaZn
+http://103.73.107.122:3255/dazn/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Star Sports 1 HD", Star Sports 1 HD
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
@@ -251,13 +254,13 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Discovery HD", Discovery HD
-http://tv.bdiptv.store/live/restream/restreamkk/98.m3u8
+http://103.73.107.122:3255/Discovery/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Animal Planet", Animal Planet
 https://xfireflix.fun/toffeeWd/live.php?id=f70ef199f41d&e=.m3u8
 
 #EXTINF:-1 tvg-name="National Geographic HD", National Geographic HD
-http://xott.live:8080/11224433/11224433/206285
+https://v15.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=hkZ-edPC0dlAa-wUoxGPcA&expires=1752135107&user_id=cWhNVVVnd0htbDNubVdrcnAxZFJDa3VsREVMeVlLRUpIaERiMDdwcA==
 
 #EXTINF:-1 tvg-name="Al Jazeera English", Al Jazeera
 https://www.xfireflix.fun/yt/v2/stream.php?video_id=gCNeDWCI0vo&e=.m3u8
