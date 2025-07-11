@@ -5,8 +5,8 @@
 #EXTINF:-1 tvg-name="BTV", BTV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
 
-#EXTINF:-1 tvg-name="Boishakhi TV", Boishakhi TV
-http://peer19.roarzone.info:8080/roarzone/bk/61/index.fmp4.m3u8?token=c563902cb390938fc69041b6672a89f6edae8fce-8446d5724e68e15d872369d5c08d7e0b-1752129148-1752118348
+#EXTINF:-1 tvg-name="Ekhon TV", Ekhon TV
+http://103.73.107.122:3255/EKHONTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Deshi TV", Deshi TV
 http://208.86.19.13:81/514.stream/index.m3u8
@@ -18,7 +18,7 @@ http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/channeli/index.m3u8?e=1750361566&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=2500904c028b659ebc77930013048b9c
 
 #EXTINF:-1 tvg-name="ATN Bangla HD", ATN Bangla HD
-http://172.16.172.114:8083/ATNBangla/index.m3u8?token=1f5580b7798fc9a6c65e6f2af82356d4a6118049-97f9b401007dd0315f4a4932c3645048-1752129593-1752118793
+http://172.16.172.114:8083/ATNBangla/index.m3u8?token=e558e892bc98ec2101d0635e7203469069c3eec1-9290083f986aeec629445d8d182ac168-1752213487-1752202687
 
 #EXTINF:-1 tvg-name="NTV", NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
@@ -44,8 +44,8 @@ http://103.73.107.122:3255/ekattor_nk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="SATV HD", SATV HD
 https://tvsen6.aynaott.com/satv/index.m3u8?e=1750361476&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=ebf16a37c3342a59e9149ea2290732a0
 
-#EXTINF:-1 tvg-name="Me TV", Me TV
-https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 tvg-name="News 24", News 24
+http://103.73.107.122:3255/NEWS24LIVE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Jamuna TV", Jamuna TV
 https://tvsen6.aynaott.com/jamunatv/index.m3u8?e=1750361488&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=4518f8d8bfeee7bf3d52f12d7b026b1d
@@ -164,8 +164,8 @@ https://otttv.co.in/d2h/livestream/the-q/master.m3u8
 #EXTINF:-1 tvg-name="Colors HD", Colors HD
 http://xott.live:8080/11224433/11224433/66167
 
-#EXTINF:-1 tvg-name="Sony India", Sony India
-http://103.73.107.122:3255/SonyEntertainmentTelevisionHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sony SAB", Sony SAB
+http://103.73.107.122:3255/SonySABHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Goldmines", Goldmines
 https://tvsen6.aynaott.com/Goldmines/index.m3u8?e=1750361803&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=8a9bebaceeeee174ab489559195b5df3
