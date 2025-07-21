@@ -12,7 +12,7 @@ http://103.73.107.122:3255/EKHONTV/tracks-v1a1/mono.m3u8
 http://208.86.19.13:81/514.stream/index.m3u8
 
 #EXTINF:-1 tvg-name="T Sports", T Sports
-http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
+http://103.73.107.122:3255/TSportsHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Channel I HD", Channel I HD
 https://tvsen6.aynaott.com/channeli/index.m3u8?e=1750361566&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=2500904c028b659ebc77930013048b9c
@@ -143,10 +143,10 @@ http://103.73.107.122:3255/indiatoday/tracks-v1a1/mono.m3u8
 http://watchindia.net:8880/live/40972/04523/842.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla HD", Zee Bangla HD
-https://xfireflix.fun/toffeeWd/live.php?id=106a66093e92&e=.m3u8
+http://peer19.roarzone.info:8080/roarzone/bk/34/index.fmp4.m3u8?token=01ebf51d50155ac4c8ddbb3f2a4d691887585c95-75d6b0660f3cdf29cb4646f4e04aa8d5-1753094861-1753084061
 
 #EXTINF:-1 tvg-name="Star Jalsha HD", Star Jalsha HD
-http://38.96.178.201/live/STARJALSHA/index.m3u8
+http://peer19.roarzone.info:8080/roarzone/bk/30/index.fmp4.m3u8?token=1bb0053d68a50bb5feb9612fb66c88e02ae296e3-0c750b7b1b3d08e36ff87bc1fafa17c7-1753095222-1753084422
 ##Backup---https://raw githubusercontent com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarJalshaHd m3u8
 
 #EXTINF:-1 tvg-name="Sony Aath", Sony Aath
