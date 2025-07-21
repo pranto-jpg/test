@@ -116,7 +116,7 @@ https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
 #EXTINF:-1 tvg-name="& TV HD", & TV HD
-http://peer19.roarzone.info:8080/roarzone/bk/74/index.fmp4.m3u8?token=41897515bbf943d0bb170bb896130fd5462351b0-8b1df773be411f12b56b8e5235463944-1752128999-1752118199
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TLC", TLC
 http://103.73.107.122:3255/TLCHD/tracks-v1a1/mono.m3u8
@@ -134,10 +134,10 @@ http://103.73.107.122:3255/ARYDigitalasia/tracks-v1a1/mono.m3u8
 http://peer19.roarzone.info:8080/roarzone/bk/72/index.fmp4.m3u8?token=470bea015b3e19b4e67223873ad97c3911a28052-5b902497d8fe75ba15562916f6e54603-1752129434-1752118634
 
 #EXTINF:-1 tvg-name="Hallmark Movies HD", Hallmark Movies HD
-https://v2.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8?token=FLDwqjCRzL-pjUC2FrRVtw&expires=1752134887&user_id=cWhNVVVnd0htbDNubVdrcnAxZFJDa3VsREVMeVlLRUpIaERiMDdwcA==
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
 
 #EXTINF:-1 tvg-name="India Today HD", India Today HD
-http://103.73.107.122:3255/indiatoday/tracks-v1a1/mono.m3u8
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Zoom", Zoom
 http://watchindia.net:8880/live/40972/04523/842.m3u8
@@ -173,9 +173,8 @@ https://tvsen6.aynaott.com/Goldmines/index.m3u8?e=1750361803&u=8be812d7-3211-469
 #EXTINF:-1 tvg name="Pogo", Pogo
 https://xfireflix.fun/toffeeWd/live.php?id=38060f0d4077&e=.m3u8
 
-#EXTINF:-1 tvg-name="Nickelodeon East", Nickelodeon East
-https://v12.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8?token=ZVPP_0xFqoyvC319yRGoBw&expires=1752135171&user_id=cWhNVVVnd0htbDNubVdrcnAxZFJDa3VsREVMeVlLRUpIaERiMDdwcA==
-
+#EXTINF:-1 tvg-name="Nick", Nick
+https://s111.twilightparadox.com/JIO1/live.php?id=1341&key=JITENDRAUNATTI&e=.m3u8
 ### 🌐 International Channels
 
 #EXTINF:-1 tvg-name="BBC News", BBC News
@@ -203,7 +202,7 @@ https://otttv.co.in/d2h/livestream/russia-today/master.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-name="Cartoon Network", Cartoon Network
-https://xfireflix.fun/toffeeWd/live.php?id=206c4fa8e760&e=.m3u8
+https://s111.twilightparadox.com/JIO1/live.php?id=816&key=JITENDRAUNATTI&e=.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Kids", Discovery Kids
 http://103.73.107.122:3255/DiscoveryKids/tracks-v1a1/mono.m3u8
@@ -254,7 +253,7 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Discovery HD", Discovery HD
-http://103.73.107.122:3255/Discovery/tracks-v1a1/mono.m3u8
+https://s111.twilightparadox.com/JIO1/live.php?id=573&key=JITENDRAUNATTI&e=.m3u8
 
 #EXTINF:-1 tvg-name="Animal Planet", Animal Planet
 https://xfireflix.fun/toffeeWd/live.php?id=f70ef199f41d&e=.m3u8
