@@ -39,7 +39,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Ekattor TV", Ekattor TV
-http://103.73.107.122:3255/ekattor_nk/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 tvg-name="SATV HD", SATV HD
 https://tvsen6.aynaott.com/satv/index.m3u8?e=1750361476&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=ebf16a37c3342a59e9149ea2290732a0
@@ -60,7 +60,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://tvsen6.aynaott.com/somoytv/index.m3u8?e=1750361563&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=26815086c392d0cae22bfab62de91cbb
 
 #EXTINF:-1 tvg-name="Channel 24", Channel 24
-http://103.73.107.122:3255/CH24/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 ### 🇮🇳 Indian Channels
 
@@ -70,8 +70,8 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTINF:-1 tvg-name="Ruposhi", Ruposhi
 https://cdn-4.pishow.tv/live/1039/master.m3u8
 
-#EXTINF:-1 tvg-name="Republic Bangla", Republic Bangla
-https://otttv.co.in/d2h/livestream/r-bangla/master.m3u8
+#EXTINF:-1 tvg-name="R Bangla", R Bangla
+https://jmp2.uk/sam-INBD2500016OR.m3u8
 
 #EXTINF:-1 tvg-name="High News", High News
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
@@ -124,8 +124,8 @@ http://103.73.107.122:3255/TLCHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Zee Bollywood", Zee Bollywood
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-678287e75fe5e4eb1e030c65.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
-#EXTINF:-1 tvg-name="Zee Anmol", Zee Anmol
-http://watchindia.net:8880/live/40972/04523/813.m3u8
+#EXTINF:-1 tvg-name="Zee 24", Zee 24
+https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 
 #EXTINF:-1 tvg-name="ARY DIGITAL HD", ARY DIGITAL HD
 http://103.73.107.122:3255/ARYDigitalasia/tracks-v1a1/mono.m3u8
@@ -143,7 +143,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 http://watchindia.net:8880/live/40972/04523/842.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla HD", Zee Bangla HD
-http://peer19.roarzone.info:8080/roarzone/bk/34/index.fmp4.m3u8?token=01ebf51d50155ac4c8ddbb3f2a4d691887585c95-75d6b0660f3cdf29cb4646f4e04aa8d5-1753094861-1753084061
+http://103.73.107.122:3255/ZeeBangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Star Jalsha HD", Star Jalsha HD
 http://peer19.roarzone.info:8080/roarzone/bk/30/index.fmp4.m3u8?token=1bb0053d68a50bb5feb9612fb66c88e02ae296e3-0c750b7b1b3d08e36ff87bc1fafa17c7-1753095222-1753084422
