@@ -18,7 +18,7 @@ http://103.73.107.122:3255/TSportsHD/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/channeli/index.m3u8?e=1750361566&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=2500904c028b659ebc77930013048b9c
 
 #EXTINF:-1 tvg-name="ATN Bangla HD", ATN Bangla HD
-http://172.16.172.114:8083/ATNBangla/index.m3u8?token=e558e892bc98ec2101d0635e7203469069c3eec1-9290083f986aeec629445d8d182ac168-1752213487-1752202687
+http://172.16.172.114:8083/ATNBangla/tracks-v1a1/mono.m3u8?token=5cb9afa55bd226bdf9d250a871e85c914fe4b761-b28a8635cb88cfcb5436c1e5ff73f4e5-1754010234-1753999434
 
 #EXTINF:-1 tvg-name="NTV", NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
@@ -78,6 +78,19 @@ https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 
 #EXTINF:-1 tvg-name="Ion TV", Ion TV
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Zee Bangla HD", Zee Bangla HD
+http://172.17.50.112:84/ant1010/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Star Jalsha HD", Star Jalsha HD
+http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
+##Backup---https://raw githubusercontent com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarJalshaHd m3u8
+
+#EXTINF:-1 tvg-name="Sony Aath", Sony Aath
+http://103.73.107.122:3255/SonyAath/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="আকাশ ৮", আকাশ ৮
+https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
 
 #EXTINF:-1 tvg-name="R Plus", R Plus
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
@@ -141,19 +154,6 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 
 #EXTINF:-1 tvg-name="Zoom", Zoom
 http://watchindia.net:8880/live/40972/04523/842.m3u8
-
-#EXTINF:-1 tvg-name="Zee Bangla HD", Zee Bangla HD
-http://172.17.50.112:84/ant1010/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="Star Jalsha HD", Star Jalsha HD
-http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
-##Backup---https://raw githubusercontent com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarJalshaHd m3u8
-
-#EXTINF:-1 tvg-name="Sony Aath", Sony Aath
-http://103.73.107.122:3255/SonyAath/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="আকাশ ৮", আকাশ ৮
-https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
 
 #EXTINF:-1 tvg-name="Colors Bangla HD", Colors Bangla HD
 https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
@@ -247,7 +247,7 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 http://103.73.107.122:3255/dazn/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Star Sports 1 HD", Star Sports 1 HD
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
+http://172.16.172.114:8083/StarSports2HD/tracks-v1a1/mono.m3u8?token=b1680c2b3969a24da93a44615ed890a053944732-b64bc752fa2014154635801d1cdbaa4e-1754009836-1753999036
 
 #EXTINF:-1 tvg-name="Fifa+", Fifa+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
@@ -259,10 +259,10 @@ https://s111.twilightparadox.com/JIO1/live.php?id=573&key=JITENDRAUNATTI&e=.m3u8
 https://xfireflix.fun/toffeeWd/live.php?id=f70ef199f41d&e=.m3u8
 
 #EXTINF:-1 tvg-name="National Geographic HD", National Geographic HD
-https://tvsen6.aynascope.net/natgeo/index.m3u8?e=1753811921&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=e1774f05908d2a5ae3487a7bdf202a37
+https://fl3.moveonjoy.com/National_Geographic/index.m3u8
 
 #EXTINF:-1 tvg-name="Al Jazeera English", Al Jazeera
-https://tvsen6.aynascope.net/aljazeera/index.m3u8?e=1753811671&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=ca907a3db7d691cf9bbb5f1fecd287f0
+http://172.16.172.115:3255/Aljazeera/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
