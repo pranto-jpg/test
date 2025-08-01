@@ -3,7 +3,7 @@
 ### 🇧🇩 Bangladeshi Channels
 
 #EXTINF:-1 tvg-name="BTV", BTV
-https://tvsen6.aynascope.net/btvhd/index.m3u8?e=1753811674&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=8ed7ae716af3607158f08843d1e1910b
+http://172.17.50.112:84/ant1003/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="DBC News", DBC News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
@@ -143,10 +143,10 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 http://watchindia.net:8880/live/40972/04523/842.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla HD", Zee Bangla HD
-http://103.73.107.122:3255/ZeeBangla/tracks-v1a1/mono.m3u8
+http://172.17.50.112:84/ant1010/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Star Jalsha HD", Star Jalsha HD
-http://peer19.roarzone.info:8080/roarzone/bk/30/index.fmp4.m3u8?token=1bb0053d68a50bb5feb9612fb66c88e02ae296e3-0c750b7b1b3d08e36ff87bc1fafa17c7-1753095222-1753084422
+http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
 ##Backup---https://raw githubusercontent com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarJalshaHd m3u8
 
 #EXTINF:-1 tvg-name="Sony Aath", Sony Aath
