@@ -202,7 +202,7 @@ https://otttv.co.in/d2h/livestream/russia-today/master.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-name="Cartoon Network", Cartoon Network
-https://s111.twilightparadox.com/JIO1/live.php?id=816&key=JITENDRAUNATTI&e=.m3u8
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Kids", Discovery Kids
 http://103.73.107.122:3255/DiscoveryKids/tracks-v1a1/mono.m3u8
@@ -266,5 +266,6 @@ http://172.16.172.115:3255/Aljazeera/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
