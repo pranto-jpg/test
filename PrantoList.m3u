@@ -18,7 +18,7 @@ http://103.73.107.122:3255/TSportsHD/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/channeli/index.m3u8?e=1750361566&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=2500904c028b659ebc77930013048b9c
 
 #EXTINF:-1 tvg-name="ATN Bangla HD", ATN Bangla HD
-http://172.16.172.114:8083/ATNBangla/tracks-v1a1/mono.m3u8?token=5cb9afa55bd226bdf9d250a871e85c914fe4b761-b28a8635cb88cfcb5436c1e5ff73f4e5-1754010234-1753999434
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="NTV", NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
@@ -266,6 +266,7 @@ http://172.16.172.115:3255/Aljazeera/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
 
