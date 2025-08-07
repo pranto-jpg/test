@@ -87,7 +87,7 @@ http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
 ##Backup---https://raw githubusercontent com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarJalshaHd m3u8
 
 #EXTINF:-1 tvg-name="Sony Aath", Sony Aath
-http://103.73.107.122:3255/SonyAath/tracks-v1a1/mono.m3u8
+http://peer19.roarzone.info:8080/roarzone/bk/33/index.fmp4.m3u8?token=8b6510d1b5443fe80ee259d293e6c1baea539445-0b1f9e5769556647250b6ee40c34dabb-1754592595-1754581795
 
 #EXTINF:-1 tvg-name="আকাশ ৮", আকাশ ৮
 https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
@@ -266,6 +266,7 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
 
