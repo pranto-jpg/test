@@ -132,7 +132,7 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TLC", TLC
-http://103.73.107.122:3255/TLCHD/tracks-v1a1/mono.m3u8
+http://172.16.172.115:3255/TLCHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bollywood", Zee Bollywood
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-678287e75fe5e4eb1e030c65.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
@@ -266,6 +266,7 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
 
