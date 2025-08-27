@@ -15,7 +15,7 @@ http://208.86.19.13:81/514.stream/index.m3u8
 http://103.73.107.122:3255/TSportsHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Channel I HD", Channel I HD
-http://172.16.172.115:3255/chnnel-i/tracks-v1a1/mono.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8?
 
 #EXTINF:-1 tvg-name="ATN Bangla HD", ATN Bangla HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8
@@ -265,6 +265,7 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
 
