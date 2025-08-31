@@ -51,7 +51,7 @@ http://103.73.107.122:3255/NEWS24LIVE/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-1 tvg-name="Banglavision", Banglavision
-http://172.16.172.115:3255/BanglaV/tracks-v1a1/mono.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Ekushey ETV", Ekushey
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -115,8 +115,8 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-name="Sun Bangla", Sun Bangla
 http://103.122.252.100:8080/SUN-BANGLA/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-name="Zee One", Zee One
-https://jmp2.uk/sam-GBBD1100013BJ.m3u8
+#EXTINF:-1 tvg-name="Bollywood HD", Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
 #EXTINF:-1 tvg-name="Enterr10 Bangla", Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -157,20 +157,17 @@ http://watchindia.net:8880/live/40972/04523/842.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla HD", Colors Bangla HD
 https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
 
-#EXTINF:-1 tvg name="The Q", The Q
-https://otttv.co.in/d2h/livestream/the-q/master.m3u8
+#EXTINF:-1 tvg-name="Bhojpuri Cinema", Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Colors HD", Colors HD
-http://xott.live:8080/11224433/11224433/66167
-
-#EXTINF:-1 tvg-name="Sony SAB", Sony SAB
-http://103.73.107.122:3255/SonySABHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sony Max HD", Sony Max HD
+http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/98857.m3u8
 
 #EXTINF:-1 tvg-name="Goldmines", Goldmines
-https://tvsen6.aynaott.com/Goldmines/index.m3u8?e=1750361803&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=8a9bebaceeeee174ab489559195b5df3
+https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 #EXTINF:-1 tvg name="Pogo", Pogo
-https://xfireflix.fun/toffeeWd/live.php?id=38060f0d4077&e=.m3u8
+http://172.16.172.115:3255/POGO/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Nick", Nick
 https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
@@ -189,7 +186,7 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="HBO HD", HBO HD
-https://tvsen5.aynascope.net/hbo/index.m3u8?e=1753811891&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=91a6581ccb0c35c030f06b6ff602e31e
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium321%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 
 #EXTINF:-1 tvg-name="Bloomberg", Bloomberg
 https://bloomberg.com/media-manifest/streams/eu.m3u8
@@ -207,7 +204,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 http://103.73.107.122:3255/DiscoveryKids/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Disney", Disney
-https://fl5.moveonjoy.com/DISNEY/index.m3u8
+https://tvpass.org/live/DisneyChannelEast/hd
 
 #EXTINF:-1 tvg-name="Disney XD", Disney XD
 https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
@@ -219,10 +216,10 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
 
 #EXTINF:-1 tvg-name="TNT Sports 4", TNT Sports 4
-https://a1xs.vip/2000024
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium34%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 
 #EXTINF:-1 tvg-name="ESPN", ESPN
-http://38.96.178.201/live/ESPNHD/index.m3u8
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0UlOlorS1NETCUIWisARVsHJS8=.m3u8
 
 #EXTINF:-1 tvg-name="Redbull Tv", RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -242,7 +239,7 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2F
 #EXTIINF:-1 tvg-name="TUDN", TUDN
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium66%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 
-#EXTINF:-1 tvg-name="Sky Sports Premiere League", Sky Sports Premiere League
+#EXTINF:-1 tvg-name="Sky Sports Premier League", Sky Sports Premier League
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysprem
 
 #EXTINF:-1 tvg-name="Star Sports 1 HD", Star Sports 1 HD
@@ -252,7 +249,10 @@ http://103.122.252.100:8080/STAR-SPORTS-SELECT-1/tracks-v1a1/index.m3u8
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Discovery HD", Discovery HD
-http://kst.moonplex.net:8080/CH9/index.m3u8
+https://a1xs.vip/300034
+
+#EXTINF:-1 tvg-name="Investigation Discovery HD", Investigation Discovery HD
+https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNygtXl5RW08kNElTLF0gJCQvLygtXl5ROjgvX0hfIl8GBRoyVzZaJDxaBj8L.m3u8
 
 #EXTINF:-1 tvg-name="Animal Planet", Animal Planet
 https://a1xs.vip/300035
@@ -265,6 +265,7 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
 
