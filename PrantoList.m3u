@@ -3,10 +3,10 @@
 ### 🇧🇩 Bangladeshi Channels
 
 #EXTINF:-1 tvg-name="BTV", BTV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/mono.m3u8
+https://tvsen6.aynaott.com/btvhd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="DBC News", DBC News
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
+https://tvsen6.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="Deshi TV", Deshi TV
 http://208.86.19.13:81/514.stream/index.m3u8
@@ -21,13 +21,13 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="NTV", NTV
-http://172.16.172.115:3255/NTVLive1/tracks-v1a1/mono.m3u8
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="GTV HD", GTV HD
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 
 #EXTINF:-1 tvg-name="Independent", Independent
-http://103.122.252.100:8080/INDEPENDENT/tracks-v1a1/index.m3u8
+https://tvsen6.aynaott.com/independenttv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="My TV", My TV
 https://mytvbangla.com/0.m3u8
@@ -45,7 +45,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="News 24", News 24
-http://103.73.107.122:3255/NEWS24LIVE/tracks-v1a1/mono.m3u8
+https://tvsen6.aynaott.com/banglatv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="Jamuna TV", Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
@@ -68,10 +68,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 
 #EXTINF:-1 tvg-name="Ruposhi", Ruposhi
-https://cdn-4.pishow.tv/live/1039/master.m3u8
+https://tvsen6.aynaott.com/RupshiBangla/index.m3u8
 
 #EXTINF:-1 tvg-name="R Bangla", R Bangla
-https://jmp2.uk/sam-INBD2500016OR.m3u8
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
 #EXTINF:-1 tvg-name="High News", High News
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
@@ -80,13 +80,13 @@ https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla HD", Zee Bangla HD
-http://103.122.252.100:8080/ZEE-BANGLA/tracks-v1a1/index.m3u8
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 
 #EXTINF:-1 tvg-name="Star Jalsha HD", Star Jalsha HD
 https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
 
 #EXTINF:-1 tvg-name="Sony Aath", Sony Aath
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8%20
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
 #EXTINF:-1 tvg-name="আকাশ ৮", আকাশ ৮
 https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
@@ -113,7 +113,7 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-name="Sun Bangla", Sun Bangla
-http://103.122.252.100:8080/SUN-BANGLA/tracks-v1a1/index.m3u8
+https://smart.bengaldigital.live./sun-bangla-paid/index.m3u8
 
 #EXTINF:-1 tvg-name="Bollywood HD", Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
@@ -265,6 +265,7 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
 
