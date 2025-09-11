@@ -140,7 +140,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-678287e75fe5
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 
 #EXTINF:-1 tvg-name="ARY DIGITAL HD", ARY DIGITAL HD
-http://103.73.107.122:3255/ARYDigitalasia/tracks-v1a1/mono.m3u8
+http://172.16.172.115:3255/ARYDigitalasia/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Star Gold HD", Star Gold HD
 http://peer19.roarzone.info:8080/roarzone/bk/72/index.fmp4.m3u8?token=470bea015b3e19b4e67223873ad97c3911a28052-5b902497d8fe75ba15562916f6e54603-1752129434-1752118634
@@ -152,7 +152,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Zoom", Zoom
-http://watchindia.net:8880/live/40972/04523/842.m3u8
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Colors Bangla HD", Colors Bangla HD
 https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
@@ -164,7 +164,7 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/98857.m3u8
 
 #EXTINF:-1 tvg-name="Goldmines", Goldmines
-https://cdn-2.pishow.tv/live/1459/master.m3u8
+https://tvsen6.aynaott.com/Goldmines/index.m3u8
 
 #EXTINF:-1 tvg name="Pogo", Pogo
 http://172.16.172.115:3255/POGO/tracks-v1a1/mono.m3u8
@@ -265,6 +265,7 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
 
