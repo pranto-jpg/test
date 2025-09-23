@@ -79,8 +79,7 @@ https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 #EXTINF:-1 tvg-name="Ion TV", Ion TV
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Zee Bangla HD", Zee Bangla HD
-http://filex.me:8080/live/1234567890/1234567890/520265.ts
+
 
 #EXTINF:-1 tvg-name="Star Jalsha HD", Star Jalsha HD
 https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
@@ -265,6 +264,7 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
 
