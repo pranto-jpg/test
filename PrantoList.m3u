@@ -12,7 +12,7 @@ https://tvsen6.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8
 http://208.86.19.13:81/514.stream/index.m3u8
 
 #EXTINF:-1 tvg-name="Asia Cup", Asia Cup
-https://d15.epicquesthero.com:1686/hls/willowextra.m3u8?md5=C5Dd0gVYnOL1E8AwY9UJGg&expires=1759076167
+https://d9.merichunidya.com:1686/hls/willowusa.m3u8?md5=RznnCyBQr51cMEvud2ETfg&expires=1759084364
 
 #EXTINF:-1 tvg-name="Channel I HD", Channel I HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8?
@@ -265,6 +265,7 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
 
