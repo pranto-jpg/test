@@ -204,7 +204,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
 
 #EXTINF:-1 tvg-name="Disney", Disney
-https://tvpass.org/live/DisneyChannelEast/hd
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3671.ts
 
 #EXTINF:-1 tvg-name="Disney XD", Disney XD
 https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
@@ -233,14 +233,17 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk
 #EXTINF:-1 tvg-name="Premier League", Premier League
 https://o4.sundaytueday.store/usa-usanetwork.m3u8?auth_key=1759677391-43c87641f69d5ca71deb6f469fde230a-00000000000000000000000000000000-7a27e542f043bdfa2bf1c9c9b0c0bee4
 
-#EXTINF:-1 tvg-name="S", S
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium414%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1 tvg-name="beIN Sports 1", beIN Sports 1
+https://world-proxifier.xyz/daddylive_go/p/GEYBSC3SC4CR6FYGDBSWWELUIFKV4U2VCB4X64DUMNZQ/index.m3u8
 
 #EXTIINF:-1 tvg-name="TUDN", TUDN
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium66%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 
 #EXTINF:-1 tvg-name="DAZN 1", DAZN 1
-https://o3.sundaytueday.store/de-dazn1.m3u8?auth_key=1759677683-43c87641f69d5ca71deb6f469fde230a-00000000000000000000000000000000-51089587fab5f8cffc04db2d5a6ba538
+https://world-proxifier.xyz/daddylive_go/p/C4KAUC3SBA2BYLBVFJSXGGYSAYDQQ/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Premier League", Sky Sports Premier League
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12149.ts
 
 #EXTINF:-1 tvg-name="Star Sports 1 HD", Star Sports 1 HD
 http://stvlive.net:8080/starselect1/index.m3u8
@@ -258,12 +261,13 @@ https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNygtXl5RW08kNElTLF0gJCQvLygtXl
 https://tvsen6.aynaott.com/animal_planet_hd/index.m3u8?e=1753741260&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=1f64ca995ca572960ded12f8b5ede7aa
 
 #EXTINF:-1 tvg-name="National Geographic HD", National Geographic HD
-https://fl3.moveonjoy.com/National_Geographic/index.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3684.ts
 
 #EXTINF:-1 tvg-name="Al Jazeera English", Al Jazeera
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
