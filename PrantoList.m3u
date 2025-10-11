@@ -12,7 +12,7 @@ https://tvsen6.aynaott.com/dbcnews/index.m3u8?e=1753741234&u=9a031201-22d8-4f7e-
 http://208.86.19.13:81/514.stream/index.m3u8
 
 #EXTINF:-1 tvg-name="T Sports", T Sports
-https://tvsen7.aynascope.net/tsportshd/tracks-v1a1/mono.ts.m3u8?e=1760205240&token=fe5bb3152ea985ddc275c6ec6d48ec06&u=7a511720-17fc-44bc-a9a7-9222de71898c
+https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1760205380&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=ffc4198c2c8f2a44717db4b8802ad788
 
 #EXTINF:-1 tvg-name="Channel I HD", Channel I HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8?
@@ -268,6 +268,7 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
 
