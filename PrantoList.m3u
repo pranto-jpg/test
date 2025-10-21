@@ -155,13 +155,13 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Colors Bangla HD", Colors Bangla HD
-https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
+https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="Bhojpuri Cinema", Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sony Max HD", Sony Max HD
-http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/98857.m3u8
+https://yflix.top/sliv1/live.php?id=1000009247&devtoken=TechPakao
 
 #EXTINF:-1 tvg-name="Goldmines", Goldmines
 https://tvsen6.aynaott.com/Goldmines/index.m3u8
@@ -213,7 +213,7 @@ https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-name="TNT Sports 2", TNT Sports 2
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
+https://bc-2.player0003.com:8099/hls/bbasdadtasfafgsdsgpgdg2s.m3u8?md6=WfEFcu3r09R5W_vy4a-x9w&expires=1761035339
 
 #EXTINF:-1 tvg-name="TNT Sports 4", TNT Sports 4
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium34%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
@@ -225,13 +225,13 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0UlOlorS1NETCU
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-name="Willow 2", Willow 2
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
+https://bc-2.player0003.com:8099/hls/willow_2.m3u8?md6=iVUpNJYpezqziORKs7du6w&expires=1761035177
 
 #EXTINF:-1 tvg-name="PTV Sports", PTV Sports
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk
+https://bc-2.player0003.com:8099/hls/ptv_paki.m3u8?md6=q8GCneyBR0vp-oS-tHbuJg&expires=1761035207
 
 #EXTINF:-1 tvg-name="Premier League", Premier League
-https://o4.sundaytueday.store/usa-usanetwork.m3u8?auth_key=1759677391-43c87641f69d5ca71deb6f469fde230a-00000000000000000000000000000000-7a27e542f043bdfa2bf1c9c9b0c0bee4
+https://bc-2.player0003.com:8099/hls/viaplaysp1.m3u8?md6=8bEtfzrpxtjFiXEPewATBA&expires=1761035387
 
 #EXTINF:-1 tvg-name="beIN Sports 1", beIN Sports 1
 https://world-proxifier.xyz/daddylive_go/p/GEYBSC3SC4CR6FYGDBSWWELUIFKV4U2VCB4X64DUMNZQ/index.m3u8
@@ -243,10 +243,10 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 https://world-proxifier.xyz/daddylive_go/p/C4KAUC3SBA2BYLBVFJSXGGYSAYDQQ/index.m3u8
 
 #EXTINF:-1 tvg-name="Sky Sports Premier League", Sky Sports Premier League
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12149.ts
+https://bc-2.player0003.com:8099/hls/skypremol.m3u8?md6=tFWZk182Z9U0RNitgk_wJA&expires=1761035273
 
 #EXTINF:-1 tvg-name="Star Sports 1 HD", Star Sports 1 HD
-http://stvlive.net:8080/starselect1/index.m3u8
+https://bc-2.player0003.com:8099/hls/starsp_1in.m3u8?md6=hIO539W24rlJOiZ72hc_iA&expires=1761035183
 
 #EXTINF:-1 tvg-name="Fifa+", Fifa+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
@@ -268,6 +268,7 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
 
