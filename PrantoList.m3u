@@ -6,7 +6,7 @@
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-name="DBC News", DBC News
-https://tvsen6.aynaott.com/dbcnews/index.m3u8?e=1753741234&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=69c80405fddae6c66043c7456b5a3e2c
+https://tvsen6.aynascope.net/dbcnews/index.m3u8?e=1762672891&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=1441619c29a5895dfdbda431f0504c58
 
 #EXTINF:-1 tvg-name="Deshi TV", Deshi TV
 http://208.86.19.13:81/514.stream/index.m3u8
@@ -75,9 +75,6 @@ https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f57
 
 #EXTINF:-1 tvg-name="High News", High News
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
-
-#EXTINF:-1 tvg-name="Ion TV", Ion TV
-https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla HD", Zee Bangla HD
 http://103.175.242.10:8080/zeebangla/index.m3u8
@@ -268,6 +265,7 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
 
