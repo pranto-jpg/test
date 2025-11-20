@@ -6,13 +6,13 @@
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-name="DBC News", DBC News
-https://tvsen6.aynascope.net/dbcnews/index.m3u8?e=1763530931&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=96d02e46099b64bf61944838bc79a013
+http://103.166.152.22:8080/roarzone/bk/7/index.fmp4.m3u8?token=2cdd8afa26ebe681b5da6806937968a711c01764-82b858f5166f42bf0b9ced85cbaf0b32-1763650049-1763639249
 
 #EXTINF:-1 tvg-name="Deshi TV", Deshi TV
 http://208.86.19.13:81/514.stream/index.m3u8
 
 #EXTINF:-1 tvg-name="T Sports", T Sports
-http://103.166.152.22:8080/roarzone/bk/102/index.fmp4.m3u8?token=9f25b1493c69c02d38c3844b7b8a3662d319e1d8-27b859f3edd12540ca6becf55f621844-1763537500-1763526700
+http://103.166.152.22:8080/roarzone/bk/102/index.fmp4.m3u8?token=8c2f83fc592fd7d5fb9cfe4c6434cda477f277a5-c135e8ee078f62f44e1b5d83b73dbdf4-1763650009-1763639209
 
 #EXTINF:-1 tvg-name="Channel I HD", Channel I HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8?
@@ -68,7 +68,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 
 #EXTINF:-1 tvg-name="Ruposhi", Ruposhi
-https://tvsen6.aynascope.net/RupshiBangla/index.m3u8?e=1763531054&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=c9b3509cae22b675fe47bd7e8c6a4676
+https://tvsen6.aynascope.net/RupshiBangla/index.m3u8?e=1763644606&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=e362cdf8d551eab17235393d938061d9
 
 #EXTINF:-1 tvg-name="R Bangla", R Bangla
 https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8
@@ -77,16 +77,16 @@ https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f57
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla HD", Zee Bangla HD
-https://tvsen5.aynascope.net/PNEb3v2q6GBk/index.m3u8?e=1763531062&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=90ef7b5cf41d3e25f20cab7feed0dbe9
+http://103.166.152.22:8080/roarzone/bk/34/index.fmp4.m3u8?token=a315ae284112624badc7841188e96f39969220f8-ccc0a2235dc705d9837624b41bd57767-1763650192-1763639392
 
 #EXTINF:-1 tvg-name="Star Jalsha HD", Star Jalsha HD
-https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1763531063&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ece06f0112af1f21a79fe54dfa76cdeb
+http://103.166.152.22:8080/roarzone/bk/30/index.fmp4.m3u8?token=370d09bddca6f008f27e0e6e19d461b64779e639-1b60370ac3a0ab969fe090af361038bb-1763650326-1763639526
 
 #EXTINF:-1 tvg-name="Sony Aath", Sony Aath
-http://103.166.152.22:8080/roarzone/bk/33/index.fmp4.m3u8?token=5aa90a0815630fd4e6c3609660bd63be6fa566aa-00b6a34cf6f59e19e5e85913f4d845bc-1763537809-1763527009
+http://103.166.152.22:8080/roarzone/bk/33/index.fmp4.m3u8?token=83466706da66ffd800da7abae5fb1303cb06740f-aa5b92941462d66a4178f2bf4352c432-1763650421-1763639621
 
 #EXTINF:-1 tvg-name="আকাশ ৮", আকাশ ৮
-https://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8?e=1763531053&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=2c590ca15d4a232b74d00ee91de1331e
+https://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8?e=1763644605&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=10c526f0f6bbb872c14d3a810448c0c1
 
 #EXTINF:-1 tvg-name="R Plus", R Plus
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
@@ -152,7 +152,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Colors Bangla HD", Colors Bangla HD
-http://103.166.152.22:8080/roarzone/bk/66/index.fmp4.m3u8?token=18b6ced194ec7668d90b8f7c487f275a2c6230a4-80d354fa5950b04b63927eda70844abb-1763537590-1763526790
+http://103.166.152.22:8080/roarzone/bk/66/index.fmp4.m3u8?token=880acd94e04269f405afad111fbcb2a4acfd8270-d88ff0f995cbe63a35dd36a4a6f232d9-1763650705-1763639905
 
 #EXTINF:-1 tvg-name="Bhojpuri Cinema", Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
@@ -167,7 +167,7 @@ https://tvsen6.aynaott.com/Goldmines/index.m3u8
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/453.m3u8
 
 #EXTINF:-1 tvg-name="Nick", Nick
-https://tvsen7.aynascope.net/nicklodean/index.m3u8?e=1763530984&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=e6c47173ce264e46cea1c05ba6179fa1
+https://tvsen7.aynascope.net/nicklodean/index.m3u8?e=1763644517&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ad4a23755385d25e2ac1a57fda98f986
 
 ### 🌐 International Channels
 
@@ -202,7 +202,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
 
 #EXTINF:-1 tvg-name="Disney", Disney
-https://tvsen7.aynascope.net/disney/index.m3u8?e=1763530983&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=8c5a22b64541896e77935797779695a9
+https://tvsen7.aynascope.net/disney/index.m3u8?e=1763644515&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=33234a1c3f947e47fa98127949216dfc
 
 #EXTINF:-1 tvg-name="Disney XD", Disney XD
 https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
@@ -266,6 +266,7 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
 
