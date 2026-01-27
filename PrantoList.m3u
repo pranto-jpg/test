@@ -125,7 +125,7 @@ https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
 #EXTINF:-1 tvg-name="& TV HD", & TV HD
-https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+http://103.182.170.32:8888/play/a03v
 
 #EXTINF:-1 tvg-name="TLC", TLC
 https://tvsen6.aynascope.net/tlc_hd/index.m3u8?e=1766588329&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=80fbc9eb4c93d8893031e8378977529e
@@ -152,22 +152,22 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Colors Bangla HD", Colors Bangla HD
-https://edge2.roarzone.info:8443/roarzone/bk/66/index.m3u8?token=770e04fcc9acf04a6c19e677d5f56a7be05f7bf4-ab94c4a290d65e9d0013b7760b8a3f8e-1766590325-1766579525
+http://103.140.254.2:3500/live/756.m3u8
 
 #EXTINF:-1 tvg-name="Bhojpuri Cinema", Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sony Max HD", Sony Max HD
-https://yflix.top/sliv1/live.php?id=1000009247&devtoken=TechPakao
+http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/SONYMAX/index.m3u8
 
 #EXTINF:-1 tvg-name="Goldmines", Goldmines
-https://tvsen6.aynaott.com/Goldmines/index.m3u8
+https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 #EXTINF:-1 tvg name="Pogo", Pogo
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/453.m3u8
 
 #EXTINF:-1 tvg-name="Nick", Nick
-https://tvsen7.aynascope.net/nicklodean/index.m3u8?e=1763644517&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ad4a23755385d25e2ac1a57fda98f986
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
 
 ### 🌐 International Channels
 
@@ -266,6 +266,7 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
 
