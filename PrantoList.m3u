@@ -6,13 +6,13 @@
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-name="DBC News", DBC News
-https://tvsen6.aynascope.net/dbcnews/index.m3u8?e=1766588204&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=66ed270b82113249f757314a74d6fda6
+https://tvsen6.aynascope.net/dbcnews/index.m3u8?e=1769509074&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4e48c6f72a65e91c3238682c5a8a99da
 
 #EXTINF:-1 tvg-name="Deshi TV", Deshi TV
 http://208.86.19.13:81/514.stream/index.m3u8
 
 #EXTINF:-1 tvg-name="T Sports", T Sports
-https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1766588159&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=bdf1f501785ee478b2df720fe3233a56
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1769509092&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4e939c631695ef179950c5ae6684263b
 
 #EXTINF:-1 tvg-name="Channel I HD", Channel I HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8?
@@ -42,10 +42,10 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 tvg-name="SATV HD", SATV HD
-https://tvsen6.aynascope.net/satv/index.m3u8?e=1766588241&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=c14d236ea71e3c6d3f7947d094d18c05
+https://tvsen6.aynascope.net/satv/index.m3u8?e=1769509060&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a8dc84b112019211ab9da999de0694af
 
 #EXTINF:-1 tvg-name="News 24", News 24
-https://tvsen6.aynascope.net/news24/index.m3u8?e=1763530930&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=8eae90a9919fc074fec955c67905b99a
+https://tvsen6.aynascope.net/news24/index.m3u8?e=1769509075&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9c4a93dc51d4958dc5820cbe7d209a46
 
 #EXTINF:-1 tvg-name="Jamuna TV", Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
@@ -77,7 +77,7 @@ https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f57
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla HD", Zee Bangla HD
-https://edge2.roarzone.info:8443/roarzone/bk/34/index.m3u8?token=7e601bc44f5aa605aa3374aaa314a3047a7417ca-de2f121b3bd97364518da14b3b4de323-1766590325-1766579525
+https://edge2.roarzone.info:8444/roarzone/bk/34/index.m3u8?token=cff512ff25824cb027b024bbf29b3815397dd235-dfb535f7c2a318d61ecd4f1b7053e15f-1769507545-1769503945
 
 #EXTINF:-1 tvg-name="Star Jalsha HD", Star Jalsha HD
 https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1766588354&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=71f8e589d98bd9b431598b9e46c13407
@@ -266,6 +266,7 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
 
