@@ -6,16 +6,16 @@
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-name="DBC News", DBC News
-https://tvsen6.aynascope.net/dbcnews/index.m3u8?e=1769509074&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4e48c6f72a65e91c3238682c5a8a99da
+http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 
 #EXTINF:-1 tvg-name="Deshi TV", Deshi TV
 http://208.86.19.13:81/514.stream/index.m3u8
 
 #EXTINF:-1 tvg-name="T Sports", T Sports
-https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1769509092&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4e939c631695ef179950c5ae6684263b
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1771084220&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1139ce124b566e0b007c1a2b193a63b8
 
 #EXTINF:-1 tvg-name="Channel I HD", Channel I HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8?
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 #EXTINF:-1 tvg-name="ATN Bangla HD", ATN Bangla HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
@@ -24,13 +24,13 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-1 tvg-name="GTV HD", GTV HD
-https://edge2.roarzone.info:8443/roarzone/bk/1/index.m3u8?token=176903d4c4d953db4a7c7b14397d113cc414bb21-c3d762a3e3165833a955bbfa54b7dc1b-1766590325-1766579525
+https://tvsen3.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-name="Independent", Independent
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 #EXTINF:-1 tvg-name="My TV", My TV
-https://tvsen6.aynaott.com/mytv/index.m3u8
+https://tvsen6.aynascope.net/mytv/index.m3u8?e=1771084190&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=81211402dd78a6c8d1fc8676f05881ee
 
 #EXTINF:-1 tvg-name="Deepto TV", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
@@ -42,16 +42,16 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 tvg-name="SATV HD", SATV HD
-https://tvsen6.aynascope.net/satv/index.m3u8?e=1769509060&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a8dc84b112019211ab9da999de0694af
+https://tvsen6.aynascope.net/satv/index.m3u8?e=1771084187&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=731f3a7f410c1d04170f5ac98ed0e490
 
 #EXTINF:-1 tvg-name="News 24", News 24
-https://tvsen6.aynascope.net/news24/index.m3u8?e=1769509075&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9c4a93dc51d4958dc5820cbe7d209a46
+https://tvsen6.aynascope.net/news24/index.m3u8?e=1771084202&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f5bd6ecc2b7b65ea0efe94e85f1c86c2
 
 #EXTINF:-1 tvg-name="Jamuna TV", Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-1 tvg-name="Banglavision", Banglavision
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/tracks-v1a1/mono.m3u8
+https://edge2.roarzone.info:8444/roarzone/edge2/banglavision/index.m3u8?token=8bc573827d203a8c6341fae9f543b8536aab0555-d2762d51a5e5bea751ea0b4d2a7a9c53-1771079991-1771076391
 
 #EXTINF:-1 tvg-name="Ekushey ETV", Ekushey
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -77,7 +77,7 @@ https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f57
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla HD", Zee Bangla HD
-https://edge2.roarzone.info:8444/roarzone/bk/34/index.m3u8?token=cff512ff25824cb027b024bbf29b3815397dd235-dfb535f7c2a318d61ecd4f1b7053e15f-1769507545-1769503945
+https://edge2.roarzone.info:8444/roarzone/edge3/zee-bangla/index.m3u8?token=78e17f4cf584a07727a93caaa68a3f8185d420e8-c375d3d8e4d444e35105f116f3703f5a-1771079991-1771076391
 
 #EXTINF:-1 tvg-name="Star Jalsha HD", Star Jalsha HD
 https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1766588354&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=71f8e589d98bd9b431598b9e46c13407
@@ -266,6 +266,7 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
 
