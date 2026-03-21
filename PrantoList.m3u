@@ -62,7 +62,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 ### 🇮🇳 Indian Channels
 
 #EXTINF:-1 tvg-name="DD Bangla", DD Bangla
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+https://mumt05.tangotv.in/DDBANGLA/index.m3u8
 
 #EXTINF:-1 tvg-name="Ruposhi", Ruposhi
 https://tvsen6.aynascope.net/RupshiBangla/index.m3u8?e=1766588344&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ee51f7690a5e3ab2ecc24f10f1ddc185
@@ -107,7 +107,7 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-name="Sun Bangla", Sun Bangla
-https://edge2.roarzone.info:8443/roarzone/bk/33/index.m3u8?token=8680d052915a5d52087ba36dd77beb736accfcaa-beee902058d866bf8a94952a24b7e972-1766590325-1766579525
+http://103.161.153.165:8000/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-name="Bollywood HD", Bollywood HD
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
@@ -149,7 +149,7 @@ http://217.20.112.199:8888/ColorsHD/index.m3u8
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sony Max HD", Sony Max HD
-https://edge2.roarzone.info:8444/roarzone/edge3/sony-max/index.m3u8?token=b0e7805cd8024105d359d5e753577b5bb8d450ad-acbccbea5bb6bc2787b9698d053a870e-1771079991-1771076391
+http://103.99.249.139/sonymax/index.m3u8
 
 #EXTINF:-1 tvg-name="Goldmines", Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
@@ -171,9 +171,6 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 #EXTINF:-1 tvg-name="GB News", GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
-#EXTINF:-1 tvg name="Sony Comedias", Sony Comedias
-https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="HBO HD", HBO HD
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
@@ -182,9 +179,6 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:-1 tvg-name="RT News", RT NEWS
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-
-#EXTINF:-1 tvg-name="ABC News", ABC News
-https://tvsen6.aynascope.net/AbcNews/index.m3u8?e=1771084195&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=81d4c09500d6ddb1c19b05177b84825f
 
 #EXTINF:-1 tvg-name="Cartoon Network", Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
@@ -195,26 +189,20 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-name="Redbull Tv", RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-name="Willow 2", Willow 2
-https://n5.sanwalyaarpya.com:1686/hls/willowextra.m3u8?md5=HKz4K7-n33VEkoENc49AVg&expires=1771083829
-
-#EXTINF:-1 tvg-name="PTV Sports", PTV Sports
-https://n5.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=EihphWF_7NfvizMDXKv39Q&expires=1771083829
-
 #EXTINF:-1 tvg-name="Fifa+", Fifa+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Discovery HD", Discovery HD
-https://edge2.roarzone.info:8444/roarzone/edge3/discovery-hd/index.m3u8?token=a159b6a6edc7d84c08e2cefde617c39ee0036df7-81073aa13bce6ca34087dc87268222e3-1771079991-1771076391
+https://a1xs.vip/300034
 
 #EXTINF:-1 tvg-name="Investigation Discovery HD", Investigation Discovery HD
 https://edge2.roarzone.info:8444/roarzone/edge3/investigation-discovery-hd/index.m3u8?token=453a177762b51dfff915befbfca98febfbf4a01f-52f2257062437032954a930d6ae97fc5-1771079991-1771076391
 
 #EXTINF:-1 tvg-name="Animal Planet", Animal Planet
-https://tvsen6.aynascope.net/animal_planet_hd/index.m3u8?e=1763531032&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=b9d9a30d70e3b858055a0114581491c6
+https://a1xs.vip/300035
 
 #EXTINF:-1 tvg-name="National Geographic HD", National Geographic HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3684.ts
+https://a1xs.vip/lovent4k
 
 #EXTINF:-1 tvg-name="Al Jazeera English", Al Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
