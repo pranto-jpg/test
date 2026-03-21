@@ -8,17 +8,17 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-name="DBC News", DBC News
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 
-#EXTINF:-1 tvg-name="Deshi TV", Deshi TV
-http://208.86.19.13:81/514.stream/index.m3u8
+#EXTINF:-1 tvg-name="Maasranga TV", Maasranga TV
+https://edge2.roarzone.info:8447/roarzone/edge2/mashraga/tracks-v1a1/mono.m3u8?token=1097be3f424e770121e7acaa2d1df8d792d96801-df479a4d96dbbeadec238d78f282ac3e-1774070977-1774067377
 
-#EXTINF:-1 tvg-name="T Sports", T Sports
-https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1771084220&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1139ce124b566e0b007c1a2b193a63b8
+#EXTINF:-1 tvg-name="DBC News", DBC News
+https://edge2.roarzone.info:8447/roarzone/edge2/dbc/tracks-v1a1/mono.m3u8?token=d094cc21abce6cf308a0d3eccdf804cc75bf4197-a8035e69428bb062a20cf879878e78ae-1774071081-1774067481
 
 #EXTINF:-1 tvg-name="Channel I HD", Channel I HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 #EXTINF:-1 tvg-name="ATN Bangla HD", ATN Bangla HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+https://edge2.roarzone.info:8447/roarzone/edge2/atn-news/tracks-v1a1/mono.m3u8?token=8fb5fc885bdf84d9262b1d31a9399b5173f909d1-f7ffc6edb611a46e1a0415443a488060-1774071174-1774067574
 
 #EXTINF:-1 tvg-name="NTV", NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
@@ -30,13 +30,10 @@ https://tvsen3.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 #EXTINF:-1 tvg-name="My TV", My TV
-https://tvsen6.aynascope.net/mytv/index.m3u8?e=1771084190&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=81211402dd78a6c8d1fc8676f05881ee
+https://edge2.roarzone.info:8447/roarzone/bk/65/tracks-v1a1/mono.m3u8?token=b84162ce025a0e3ce9863bd7537da563f084066b-65cd873c1b4caac23321acff9d235543-1774071294-1774067694
 
 #EXTINF:-1 tvg-name="Deepto TV", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-
-#EXTINF:-1 tvg-name="Masranga TV", Masranga TV
-https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Ekattor TV", Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
@@ -51,7 +48,7 @@ https://tvsen6.aynascope.net/news24/index.m3u8?e=1771084202&u=78be6644-0a65-48ec
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-1 tvg-name="Banglavision", Banglavision
-https://edge2.roarzone.info:8444/roarzone/edge2/banglavision/index.m3u8?token=8bc573827d203a8c6341fae9f543b8536aab0555-d2762d51a5e5bea751ea0b4d2a7a9c53-1771079991-1771076391
+https://edge2.roarzone.info:8447/roarzone/edge2/banglavision/tracks-v1a1/mono.m3u8?token=6082cb86067a4e00ed7996f4bdc13eca2a185f0b-698e4997d17ce5c1834e970730a4d69e-1774071553-1774067953
 
 #EXTINF:-1 tvg-name="Ekushey ETV", Ekushey
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -77,13 +74,13 @@ https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f57
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla HD", Zee Bangla HD
-https://edge2.roarzone.info:8444/roarzone/edge3/zee-bangla/index.m3u8?token=78e17f4cf584a07727a93caaa68a3f8185d420e8-c375d3d8e4d444e35105f116f3703f5a-1771079991-1771076391
+https://edge2.roarzone.info:8447/roarzone/edge3/zee-bangla/tracks-v1a1/mono.m3u8?token=85c505cb87000bb849001fd50c2d01552dbb9851-e26bcff114a849d5b0c1867bfc3f3269-1774071726-1774068126
 
 #EXTINF:-1 tvg-name="Star Jalsha HD", Star Jalsha HD
-https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1766588354&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=71f8e589d98bd9b431598b9e46c13407
+https://edge2.roarzone.info:8447/roarzone/edge2/star-jalsha/tracks-v1a1/mono.m3u8?token=f67faa4003703445913f956e9eb1ace011664411-9fb04f6ce9c18e9a4120f5b56da66f01-1774071786-1774068186
 
 #EXTINF:-1 tvg-name="Sony Aath", Sony Aath
-https://edge2.roarzone.info:8444/roarzone/edge3/sony-aath/index.m3u8?token=f05aa7c63de7fdb7b8a671aa4d3e0a6da7ad2819-069df9329a7ad903d6e6ba267d6a271f-1771079991-1771076391
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-aath/tracks-v1a1/mono.m3u8?token=3ee884bdcb755bacdc967d3d309c345f51b8efa9-f44e9562a242d7e3164314ddfae8e74e-1774071821-1774068221
 
 #EXTINF:-1 tvg-name="আকাশ ৮", আকাশ ৮
 https://cdn-4.pishow.tv/live/969/master.m3u8
