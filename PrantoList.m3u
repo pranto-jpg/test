@@ -8,6 +8,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-name="DBC News", DBC News
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 
+#EXTINF:-1 tvg-name="T Sports", T Sports
+https://cdn2.rongintv.workers.dev/ch/2460
+
 #EXTINF:-1 tvg-name="Maasranga TV", Maasranga TV
 https://edge2.roarzone.info:8447/roarzone/edge2/mashraga/tracks-v1a1/mono.m3u8?token=1097be3f424e770121e7acaa2d1df8d792d96801-df479a4d96dbbeadec238d78f282ac3e-1774070977-1774067377
 
@@ -143,7 +146,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Colors Bangla HD", Colors Bangla HD
-http://217.20.112.199:8888/ColorsHD/index.m3u8
+https://cdn2.rongintv.workers.dev/ch/5085
 
 #EXTINF:-1 tvg-name="Bhojpuri Cinema", Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
@@ -158,7 +161,7 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 https://edge2.roarzone.info:8444/roarzone/edge3/pogo/index.m3u8?token=84f0bb61254cc4e26b8939c172316b1c03b6eb47-746a040e1c0dd1e4ec9aed5adfc89ec6-1771079991-1771076391
 
 #EXTINF:-1 tvg-name="Nick", Nick
-http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+https://cdn2.rongintv.workers.dev/ch/240
 
 ### 🌐 International Channels
 
@@ -175,7 +178,7 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
 #EXTINF:-1 tvg-name="Bloomberg", Bloomberg
-https://bloomberg.com/media-manifest/streams/eu.m3u8
+https://cdn2.rongintv.workers.dev/ch/27
 
 #EXTINF:-1 tvg-name="RT News", RT NEWS
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
@@ -193,41 +196,22 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Discovery HD", Discovery HD
-https://a1xs.vip/300034
+https://cdn2.rongintv.workers.dev/ch/1726
 
 #EXTINF:-1 tvg-name="Investigation Discovery HD", Investigation Discovery HD
 https://edge2.roarzone.info:8444/roarzone/edge3/investigation-discovery-hd/index.m3u8?token=453a177762b51dfff915befbfca98febfbf4a01f-52f2257062437032954a930d6ae97fc5-1771079991-1771076391
 
 #EXTINF:-1 tvg-name="Animal Planet", Animal Planet
-https://a1xs.vip/300035
+https://cdn2.rongintv.workers.dev/ch/1733
 
 #EXTINF:-1 tvg-name="National Geographic HD", National Geographic HD
-https://a1xs.vip/lovent4k
+https://cdn2.rongintv.workers.dev/ch/5110
 
 #EXTINF:-1 tvg-name="Al Jazeera English", Al Jazeera
-https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+https://cdn2.rongintv.workers.dev/ch/36
 
 #EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
