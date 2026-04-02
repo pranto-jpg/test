@@ -5,35 +5,35 @@
 #EXTINF:-1 tvg-name="BTV", BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 tvg-name="DBC News", DBC News
-http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
+#EXTINF:-1 tvg-name="Rtv", Rtv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="T Sports", T Sports
-https://cdn2.rongintv.workers.dev/ch/2460
-
-#EXTINF:-1 tvg-name="Maasranga TV", Maasranga TV
-https://edge2.roarzone.info:8447/roarzone/edge2/mashraga/tracks-v1a1/mono.m3u8?token=1097be3f424e770121e7acaa2d1df8d792d96801-df479a4d96dbbeadec238d78f282ac3e-1774070977-1774067377
+http://103.175.242.10:8080/tsports1/index.m3u8
 
 #EXTINF:-1 tvg-name="DBC News", DBC News
-https://edge2.roarzone.info:8447/roarzone/edge2/dbc/tracks-v1a1/mono.m3u8?token=d094cc21abce6cf308a0d3eccdf804cc75bf4197-a8035e69428bb062a20cf879878e78ae-1774071081-1774067481
+http://103.229.254.25:7001/play/a06h/index.m3u8
+
+#EXTINF:-1 tvg-name="Maasranga TV", Maasranga TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1 tvg-name="Channel I HD", Channel I HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 #EXTINF:-1 tvg-name="ATN Bangla HD", ATN Bangla HD
-https://edge2.roarzone.info:8447/roarzone/edge2/atn-news/tracks-v1a1/mono.m3u8?token=8fb5fc885bdf84d9262b1d31a9399b5173f909d1-f7ffc6edb611a46e1a0415443a488060-1774071174-1774067574
+http://103.161.153.165:8000/play/atnbd/index.m3u8
 
 #EXTINF:-1 tvg-name="NTV", NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-1 tvg-name="GTV HD", GTV HD
-https://tvsen3.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/index.m3u8
+http://103.229.254.25:7001/play/a06t/index.m3u8
 
 #EXTINF:-1 tvg-name="Independent", Independent
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 #EXTINF:-1 tvg-name="My TV", My TV
-https://edge2.roarzone.info:8447/roarzone/bk/65/tracks-v1a1/mono.m3u8?token=b84162ce025a0e3ce9863bd7537da563f084066b-65cd873c1b4caac23321acff9d235543-1774071294-1774067694
+http://103.229.254.25:7001/play/a05z/index.m3u8
 
 #EXTINF:-1 tvg-name="Deepto TV", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
@@ -42,10 +42,10 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 tvg-name="SATV HD", SATV HD
-https://tvsen6.aynascope.net/satv/index.m3u8?e=1771084187&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=731f3a7f410c1d04170f5ac98ed0e490
+http://103.229.254.25:7001/play/a062/index.m3u8
 
 #EXTINF:-1 tvg-name="News 24", News 24
-https://tvsen6.aynascope.net/news24/index.m3u8?e=1771084202&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f5bd6ecc2b7b65ea0efe94e85f1c86c2
+http://103.229.254.25:7001/play/a06i/index.m3u8
 
 #EXTINF:-1 tvg-name="Jamuna TV", Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
