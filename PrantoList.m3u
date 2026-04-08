@@ -51,7 +51,7 @@ http://103.229.254.25:7001/play/a06i/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-1 tvg-name="Banglavision", Banglavision
-http://103.161.153.165:8000/play/a02m/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8taW51aiPhnPTI2/banglav000.stream/tracks-v1a1/1715-audio_113452_eng=113200-video=2202800.m3u8
 
 #EXTINF:-1 tvg-name="Ekushey ETV", Ekushey
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -83,7 +83,7 @@ https://edge2.roarzone.info:8447/roarzone/edge3/zee-bangla/tracks-v1a1/mono.m3u8
 https://edge2.roarzone.info:8447/roarzone/edge2/star-jalsha/tracks-v1a1/mono.m3u8?token=f67faa4003703445913f956e9eb1ace011664411-9fb04f6ce9c18e9a4120f5b56da66f01-1774071786-1774068186
 
 #EXTINF:-1 tvg-name="Sony Aath", Sony Aath
-https://edge2.roarzone.info:8447/roarzone/edge3/sony-aath/tracks-v1a1/mono.m3u8?token=3ee884bdcb755bacdc967d3d309c345f51b8efa9-f44e9562a242d7e3164314ddfae8e74e-1774071821-1774068221
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="আকাশ ৮", আকাশ ৮
 https://cdn-4.pishow.tv/live/969/master.m3u8
