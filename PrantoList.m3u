@@ -195,8 +195,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-name="Fifa+", Fifa+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TNT Sports 1", TNT Sports 1
-https://cdn2.rongintv.workers.dev/ch/312
+#EXTINF:-1 tvg-name="Fancode", Fancode
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-name="Sony TEN 1", Sony TEN 1
 https://cdn2.rongintv.workers.dev/ch/294
