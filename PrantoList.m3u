@@ -21,19 +21,19 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 #EXTINF:-1 tvg-name="ATN Bangla HD", ATN Bangla HD
-http://103.161.153.165:8000/play/atnbd/index.m3u8
+https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1778849939&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=82dd86f43e2c839a44a2d217cc667d64
 
 #EXTINF:-1 tvg-name="NTV", NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-1 tvg-name="GTV HD", GTV HD
-http://103.229.254.25:7001/play/a06t/index.m3u8
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1778849942&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bd185324e6f7858e925e16da0611345f
 
 #EXTINF:-1 tvg-name="Independent", Independent
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 #EXTINF:-1 tvg-name="My TV", My TV
-http://103.229.254.25:7001/play/a05z/index.m3u8
+https://tvsen6.aynaott.com/mytv/index.m3u8?e=1778849949&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2eee8d738e9be55f7736df8be6d85699
 
 #EXTINF:-1 tvg-name="Deepto TV", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
@@ -42,7 +42,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 tvg-name="SATV HD", SATV HD
-http://103.229.254.25:7001/play/a062/index.m3u8
+https://tvsen6.aynaott.com/satv/index.m3u8?e=1778849946&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c20e0571c1d7df22920c5eeef3ad3b8a
 
 #EXTINF:-1 tvg-name="News 24", News 24
 http://103.229.254.25:7001/play/a06i/index.m3u8
@@ -65,7 +65,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 ### 🇮🇳 Indian Channels
 
 #EXTINF:-1 tvg-name="DD Bangla", DD Bangla
-https://mumt05.tangotv.in/DDBANGLA/index.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 
 #EXTINF:-1 tvg-name="Ruposhi", Ruposhi
 https://tvsen6.aynascope.net/RupshiBangla/index.m3u8?e=1766588344&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ee51f7690a5e3ab2ecc24f10f1ddc185
