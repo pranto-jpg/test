@@ -2,9 +2,6 @@
 
 ### 🇧🇩 Bangladeshi Channels
 
-#EXTINF:-1 tvg-id="BTV" group-title="Bangladesh TV", BTV Live
-https://https://spotty-berries-refuse.loca.lt/live.m3u8
-
 #EXTINF:-1 tvg-name="Shongshod Bangla", Shongshod Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
@@ -83,10 +80,10 @@ https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f57
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla HD", Zee Bangla HD
-https://edge2.roarzone.info:8447/roarzone/edge3/zee-bangla/tracks-v1a1/mono.m3u8?token=85c505cb87000bb849001fd50c2d01552dbb9851-e26bcff114a849d5b0c1867bfc3f3269-1774071726-1774068126
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
 
 #EXTINF:-1 tvg-name="Star Jalsha HD", Star Jalsha HD
-https://edge2.roarzone.info:8447/roarzone/edge2/star-jalsha/tracks-v1a1/mono.m3u8?token=f67faa4003703445913f956e9eb1ace011664411-9fb04f6ce9c18e9a4120f5b56da66f01-1774071786-1774068186
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 
 #EXTINF:-1 tvg-name="Sony Aath", Sony Aath
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
