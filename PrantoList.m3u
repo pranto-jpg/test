@@ -2,14 +2,11 @@
 
 ### 🇧🇩 Bangladeshi Channels
 
-#EXTINF:-1 tvg-name="Shongshod Bangla", Shongshod Bangla
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-name="BTV", BTV
+https://edge2.roarzone.net:8447/roarzone/edge1/3/index.ll.m3u8?token=6a34f16ca2763abe80567ca30eeadad3ec2c63f4-68cc25b0a9ba3bedc9eb3166fe863049-1781200224-1781189424
 
 #EXTINF:-1 tvg-name="Rtv", Rtv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="T Sports", T Sports
-https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8?e=1780716533&token=fa3c97145a29a17b6b48562950a07004&u=78be6644-0a65-48ec-81a4-089ac65a2619
 
 #EXTINF:-1 tvg-name="Star Sports 1", Star Sports 1
 http://103.253.18.58:8000/play/a00m
