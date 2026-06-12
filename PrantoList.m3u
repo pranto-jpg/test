@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=76657"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=76657,https://epg.pw/api/epg.xml?channel_id=543504"
 
 ### 🇧🇩 Bangladeshi Channels
 
@@ -97,7 +97,7 @@ https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f57
 #EXTINF:-1 tvg-name="High News", High News
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 
-#EXTINF:-1 tvg-name="Zee Bangla HD", Zee Bangla HD
+#EXTINF:-1 tvg-id="543504" tvg-name="Zee Bangla HD", Zee Bangla HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
 
 #EXTINF:-1 tvg-name="Star Jalsha HD", Star Jalsha HD
