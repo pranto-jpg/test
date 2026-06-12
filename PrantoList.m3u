@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=76657"
 
 ### 🇧🇩 Bangladeshi Channels
 
@@ -74,8 +74,8 @@ https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-name="Caze TV Brazil", Caze TV Brazil
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-name="TUDN Mexico", TUDN Mexico
-http://177.10.184.60:8002/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="76657" tvg-name="BBC One", BBC One
+https://www.940media.org:443/Susan/Susan1/5894
 
 #EXTINF:-1 tvg-name="beIN Sports 3", beIN Sports 3
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
@@ -104,7 +104,7 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 
 #EXTINF:-1 tvg-name="Sony Aath", Sony Aath
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge3/sonyaath/index.m3u8?token=baa41db0b97085835b532267f2f16e65423013ff-426909ec539a1d68397dfef6272d4ca8-1781274286-1781263486
 
 #EXTINF:-1 tvg-name="আকাশ ৮", আকাশ ৮
 https://cdn-4.pishow.tv/live/969/master.m3u8
