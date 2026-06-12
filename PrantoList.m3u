@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=76657,https://epg.pw/api/epg.xml?channel_id=543504"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=76657,https://epg.pw/api/epg.xml?channel_id=543504,https://epg.pw/api/epg.xml?channel_id=470446"
 
 ### 🇧🇩 Bangladeshi Channels
 
@@ -189,7 +189,7 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900
 #EXTINF:-1 tvg-name="World Cup (Server 2)", World Cup (Server 2)
 https://www.940media.org:443/Susan/Susan1/11573
 
-#EXTINF:-1 tvg-name="World Cup (Server 3)", World Cup (Server 3)
+#EXTINF:-1 tvg-id="470446" tvg-name="World Cup (Server 3)", World Cup (Server 3)
 https://www.940media.org:443/Susan/Susan1/1492053
 
 #EXTINF:-1 tvg-name="Sony TEN 1", Sony TEN 1
