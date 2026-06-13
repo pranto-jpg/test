@@ -32,8 +32,8 @@ https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1778849939&u=78be6644-0a65-48e
 #EXTINF:-1 tvg-name="NTV", NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
-#EXTINF:-1 tvg-name="GTV HD", GTV HD
-https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1778849942&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bd185324e6f7858e925e16da0611345f
+#EXTINF:-1 tvg-name="News 24", News24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
 #EXTINF:-1 tvg-name="Independent", Independent
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
