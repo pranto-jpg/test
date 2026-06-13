@@ -38,8 +38,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 tvg-name="Independent", Independent
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-1 tvg-name="My TV", My TV
-https://tvsen6.aynaott.com/mytv/index.m3u8?e=1778849949&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2eee8d738e9be55f7736df8be6d85699
+#EXTINF:-1 tvg-name="Zee Bangla Sonar", Zee Bangla Sonar
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
 
 #EXTINF:-1 tvg-name="Deepto TV", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
