@@ -3,7 +3,7 @@
 ### 🇧🇩 Bangladeshi Channels
 
 #EXTINF:-1 tvg-name="BTV", BTV
-https://edge2.roarzone.net:8447/roarzone/edge1/3/index.fmp4.m3u8?token=72938bd69d5cd5866754f77dee1c44fb0843687d-f7584db789e26cc76a10aca39dfd6853-1781273852-1781263052
+https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
 
 #EXTINF:-1 tvg-name="Rtv", Rtv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
@@ -14,8 +14,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
 #EXTINF:-1 tvg-name="Star Sports 1", Star Sports 1
 http://103.253.18.58:8000/play/a00m
 
-#EXTINF:-1 tvg-name="Unite8 Sports 2", Unite8 Sports 2
-http://66.102.126.10:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-name="FOX Sports 2", FOX Sports 2
+https://www.940media.org:443/Susan/Susan1/151
+
+#EXTINF:-1 tvg-name="UNITE8 Sports 1", UNITE8 Sports 1
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 
 #EXTINF:-1 tvg-name="Asian TV", Asian TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
@@ -53,6 +56,9 @@ https://tvsen6.aynaott.com/satv/index.m3u8?e=1778849946&u=78be6644-0a65-48ec-81a
 #EXTINF:-1 tvg-name="Bijoy TV", Bijoy TV
 https://tvsen6.aynaott.com/bijoytv/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-name="GTV", GTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Jamuna TV", Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
@@ -62,8 +68,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8taW51aiPhnPTI2/banglav
 #EXTINF:-1 tvg-name="Ekushey ETV", Ekushey
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-name="Somoy TV", Somoy TV
-https://sm-monirul.top/toffee/play/somoy_tv.m3u8
+#EXTINF:-1 tvg-name="DBC News", DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
 #EXTINF:-1 tvg-name="Channel 24", Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
