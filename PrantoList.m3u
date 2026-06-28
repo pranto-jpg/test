@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-name="Time", Time
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
+#EXTINF:-1 tvg-name="Time B", Time B
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Rtv", Rtv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 
