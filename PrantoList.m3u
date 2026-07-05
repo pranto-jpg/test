@@ -2,6 +2,9 @@
 
 ### 🇧🇩 Bangladeshi Channels
 
+#EXTINF:-1 tvg-name="BTV", BTV
+http://180.94.28.28:8097//BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68550574f121aa-12a55987e1a817f2a4c12b2cfa6c3b78-1776169971-1776166371
+
 #EXTINF:-1 tvg-name="Time", Time
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
@@ -36,7 +39,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 #EXTINF:-1 tvg-name="ATN Bangla HD", ATN Bangla HD
-https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1778849939&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=82dd86f43e2c839a44a2d217cc667d64
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
 #EXTINF:-1 tvg-name="NTV", NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
@@ -88,9 +91,6 @@ https://www.940media.org:443/Susan/Susan1/5894
 
 #EXTINF:-1 tvg-name="beIN Sports 1", beIN Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-
-#EXTINF:-1 tvg-name="Ptv Sports", Ptv Sports
-https://tvsen5.aynaott.com/PtvSports/index.m3u8
 
 ### 🇮🇳 Indian Channels
 
