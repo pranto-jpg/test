@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-name="prp00123", prp00123
 https://blitz-magnetic-vitamins.ngrok-free.dev/backup.ts
 
+#EXTINF:-1 tvg-name="BACKUP", BACKUP
+https://blitz-magnetic-vitamins.ngrok-free.dev/stream.m3u8
+
 #EXTINF:-1 tvg-name="BTV", BTV
 http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
