@@ -2,23 +2,17 @@
 
 ### 🇧🇩 Bangladeshi Channels
 
-#EXTINF:-1 tvg-name="prp00123", prp00123
-https://blitz-magnetic-vitamins.ngrok-free.dev/backup.ts
-
-#EXTINF:-1 tvg-name="BACKUP", BACKUP
-https://blitz-magnetic-vitamins.ngrok-free.dev/stream.m3u8
-
 #EXTINF:-1 tvg-name="BTV", BTV
-http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Time", Time
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
-#EXTINF:-1 tvg-name="Time B", Time B
-http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sport", Sport
+http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
-#EXTINF:-1 tvg-name="Rtv", Rtv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="শুধু খেলার সময় চলবে", শুধু খেলার সময় চলবে
+https://blitz-magnetic-vitamins.ngrok-free.dev/stream.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla Sonar", Zee Bangla Sonar
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
@@ -34,6 +28,9 @@ https://www.940media.org:443/Susan/Susan1/151
 
 #EXTINF:-1 tvg-name="UNITE8 Sports 2", UNITE8 Sports 2
 http://fastshare1.com/live/25711345/late8airline/745202.ts
+
+#EXTINF:-1 tvg-name="Rtv", Rtv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Asian TV", Asian TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
