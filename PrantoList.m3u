@@ -14,14 +14,17 @@ http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-name="শুধু খেলার সময় চলবে", শুধু খেলার সময় চলবে
 https://blitz-magnetic-vitamins.ngrok-free.dev/stream.m3u8
 
-#EXTINF:-1 tvg-name="Zee Bangla Sonar", Zee Bangla Sonar
-http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
+#EXTINF:-1 tvg-name="Soco Live", Soco Live
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4
 
 #EXTINF:-1 tvg-name="Ptv Sports", Ptv Sports
 http://114.130.57.233:8080/manik-kutta-moharaza-kuttar-baccha-t.me/tvserverhd/video.m3u8?token=manik-kuttar-baccha-t.me/tvserverhd
 
-#EXTINF:-1 tvg-name="Star Sports 1", Star Sports 1
-http://103.253.18.58:8000/play/a00m
+#EXTINF:-1 tvg-name="TSN 1", TSN 1
+https://trophystream.com/cors-proxy/https/deviantart.lovetier.bz/TSN1/tracks-v1a1/mono.m3u8?token=VFNOMXxub19jaGVja19pcHwxNzgzNzk0MjE1.e680f1fb40f539bab34de42a7056da8afc3981156c885ee5c0909d4d47fe4e09
+
+#EXTINF:-1 tvg-name="beIN Sports 5", beIN Sports 5
+http://fastshare1.com/live/25711345/late8airline/744521.ts
 
 #EXTINF:-1 tvg-name="FOX Sports 2", FOX Sports 2
 https://www.940media.org:443/Susan/Susan1/151
