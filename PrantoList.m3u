@@ -8,6 +8,9 @@ http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="BTV (Backup)", BTV(Backup)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
+#EXTINF:-1 tvg-name="T", T
+http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+
 #EXTINF:-1 tvg-name="শুধু খেলার সময় চলবে", শুধু খেলার সময় চলবে
 https://blitz-magnetic-vitamins.ngrok-free.dev/stream.m3u8
 
