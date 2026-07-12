@@ -14,9 +14,6 @@ http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-name="শুধু খেলার সময় চলবে", শুধু খেলার সময় চলবে
 https://blitz-magnetic-vitamins.ngrok-free.dev/stream.m3u8
 
-#EXTINF:-1 tvg-name="Soco Live", Soco Live
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4
-
 #EXTINF:-1 tvg-name="Ptv Sports", Ptv Sports
 http://114.130.57.233:8080/manik-kutta-moharaza-kuttar-baccha-t.me/tvserverhd/video.m3u8?token=manik-kuttar-baccha-t.me/tvserverhd
 
