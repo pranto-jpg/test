@@ -173,7 +173,7 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 #EXTINF:-1 tvg-name="Nick", Nick
-http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 
 ### 🌐 International Channels
 
@@ -220,7 +220,7 @@ https://cdn2.rongintv.workers.dev/ch/1726
 https://cdn2.rongintv.workers.dev/ch/1733
 
 #EXTINF:-1 tvg-name="National Geographic HD", National Geographic HD
-http://103.157.248.140:8000/play/a012/index.m3u8
+http://198.58.104.90:8989/natgeo/index.m3u8
 
 #EXTINF:-1 tvg-name="Al Jazeera English", Al Jazeera
 https://cdn2.rongintv.workers.dev/ch/36
