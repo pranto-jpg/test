@@ -2,7 +2,7 @@
 
 ### 🇧🇩 Bangladeshi Channels
 #EXTINF:-1 tvg-name="BTV", BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+https://bozztv.com/rongo/rongo-BTVChattagram/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV (Backup)", BTV(Backup)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
@@ -15,6 +15,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
 #EXTINF:-1 tvg-name="NTV", NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-name="Somoy TV HD", Somoy TV HD
+https://bozztv.com/rongo/rongo-somoy/index.m3u8
 
 #EXTINF:-1 tvg-name="Rtv", Rtv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
@@ -39,6 +42,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8taW51aiPhnPTI2/banglav
 
 #EXTINF:-1 tvg-name="Ekushey ETV", Ekushey
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 tvg-name="T", T
+http://51.79.251.252:7171/t-sports/tracks-v1a1/mono.m3u8?token=62736be83ba76c2f09bab3e8158b44f2ee78cbf4-7f5d6fb9cfe091b193e257d22cdc7104-1784710837-1784700037
 
 #EXTINF:-1 tvg-name="Bijoy TV", Bijoy TV
 https://tvsen6.aynaott.com/bijoytv/tracks-v1a1/mono.ts.m3u8
@@ -119,8 +125,8 @@ https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-name="ZB Bhakti", ZB Bhakti
 https://server.zillarbarta.com/zbbhakti/index.m3u8
 
-#EXTINF:-1 tvg-name="Tara Cinema", Tara Cinema
-http://103.145.48.150:90/laosat24/taratv/index.m3u8
+#EXTINF:-1 tvg-name="Tara", Tara
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tara-tv/index.m3u8?ads.vf=OAsEepvGJaK
 
 #EXTINF:-1 tvg-name="Movie Bangla", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
@@ -148,7 +154,7 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 https://cdn2.rongintv.workers.dev/ch/1726
 
 #EXTINF:-1 tvg-name="National Geographic HD", National Geographic HD
-http://198.58.104.90:8989/natgeo/index.m3u8
+http://213.91.179.28:8000/play/a0ct
 
 #EXTINF:-1 tvg-name="Animal Planet", Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
@@ -181,17 +187,15 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 
 ### ⚽ Sports & Post-Event Channels
-#EXTINF:-1 tvg-name="T", T
-http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
-#EXTINF:-1 tvg-name="Sony TEN 1", Sony TEN 1
-https://fa723fc1b171.aps32.playlist.live-video.net/v1/playlist/CrgFYVXjaCipQvLSuJK3qK1thL8t9NOH4wzUy6lly8GMIIbcYda-vNxDBvCxi7_5NtcKykgGy3p-DRW0ZNhb3eP3DRcYy2GgPaFQF2aCFenz1K66gFQQI6_MiB-S7t9V_rOrMzBOYusHJkT5iwE0QHU44vBWxPB9Y3a0Q41h5ErC-IX-RCl4HSUA3Y2UZDyQngYVDvE2YdHs7_hBUxS1yjOvDDZi4uwXfgXt6BzEOdPiUeGXrh_8w-BKjcUNh24aE3BaPz7gMvP_jLFnlITzLPpnfz_Zo5SFAj_E63Y4dfSssZFMJNOvuKtPr59-T2ljtNI_jVsH5EN4GD5Q4nadw6HhqafHPuLgs7VBIOc3D9tJAY01_BEI9lMLrY4h28W3N7wi-ei44k49YjakH91AEvFI4i7DXdnWTZWPWHmVLlNw3VUQidfCxUk9TVeTGuVdxUeboeyaKpyXcL90ZHp_dOEhjs9g6hBSKjSVtfsDqNYV5MziSXzHtikIjUzp399nx0T4QAIRyBabI7WdfPCAf9hHcEmG99yY-NfGhjcerBKKV2Ewdf9trtQWwauLVfxV-OYq-YENbGhkZC_sRpcMwPCPC13kLC-W4h1V7wNW4eGf8rY9cTeFTCXjCv5FLH6U3FcjAWNQ1PQdQxz3BFcxRNyQpfQ6v7RH5VDsiCXjrtc4SF2pOSp0wj3rzUQzn7lQ3-D8jlY2fPWr8tnuKGnWZU49dQHGFrnbYJIOdw4lqaPKxAkfLQ8KoMIcNCDVt76C_lNALWaDtsFMsjZ50UORMfi2A33wOhOyEbn3j3qu2hG3ODCU5sEzFKZ2dNwqkf3Vl1QySXH7BW5SVI0S9jWlfWK4d-g22IRFQJRFH28vgMezFN3hkIlKVkrg1rvD9vDmCfGxXHVQqIe84OTSSbtEK8NaIvkis4dyxC3cGgzTH7Q3XQj30x9FC80gASoJdXMtd2VzdC0yMKsP.m3u8
+#EXTINF:-1 tvg-name="ESPN HD", ESPN HD
+http://181.78.197.59:8000/play/a07z/index.m3u8
 
-#EXTINF:-1 tvg-name="beIN Sports 1", beIN Sports 1
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports USA", beIN Sports USA
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
 
-#EXTINF:-1 tvg-name="beIN Sports 5", beIN Sports 5
-http://fastshare1.com/live/25711345/late8airline/744521.ts
+#EXTINF:-1 tvg-name="beIN Sports XTRA", beIN Sports XTRA
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="FOX Sports 2", FOX Sports 2
 https://www.940media.org:443/Susan/Susan1/151
@@ -200,7 +204,7 @@ https://www.940media.org:443/Susan/Susan1/151
 http://114.130.57.233:8080/manik-kutta-moharaza-kuttar-baccha-t.me/tvserverhd/video.m3u8?token=manik-kuttar-baccha-t.me/tvserverhd
 
 #EXTINF:-1 tvg-name="TSN 1", TSN 1
-https://trophystream.com/cors-proxy/https/deviantart.lovetier.bz/TSN1/tracks-v1a1/mono.m3u8?token=VFNOMXxub19jaGVja19pcHwxNzgzNzk0MjE1.e680f1fb40f539bab34de42a7056da8afc3981156c885ee5c0909d4d47fe4e09
+http://40.160.24.55/TSN_1/index.m3u8
 
 #EXTINF:-1 tvg-name="UNITE8 Sports 2", UNITE8 Sports 2
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
