@@ -2,7 +2,7 @@
 
 ### 🇧🇩 Bangladeshi Channels
 #EXTINF:-1 tvg-name="BTV", BTV
-http://114.130.57.233:8080/BTV-HD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV (Backup)", BTV(Backup)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
