@@ -43,7 +43,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8taW51aiPhnPTI2/banglav
 #EXTINF:-1 tvg-name="Ekushey ETV", Ekushey
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-name="T", T
+#EXTINF:-1 tvg-name="T Sports HD", T Sports HD
 http://51.79.251.252:7171/t-sports/tracks-v1a1/mono.m3u8?token=62736be83ba76c2f09bab3e8158b44f2ee78cbf4-7f5d6fb9cfe091b193e257d22cdc7104-1784710837-1784700037
 
 #EXTINF:-1 tvg-name="Bijoy TV", Bijoy TV
