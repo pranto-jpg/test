@@ -2,7 +2,7 @@
 
 ### 🇧🇩 Bangladeshi Channels
 #EXTINF:-1 tvg-name="BTV", BTV
-https://bozztv.com/rongo/rongo-BTVChattagram/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV (Backup)", BTV(Backup)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
@@ -17,7 +17,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-1 tvg-name="Somoy TV HD", Somoy TV HD
-https://bozztv.com/rongo/rongo-somoy/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 tvg-name="Rtv", Rtv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
@@ -72,10 +72,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 http://103.159.180.34:5001/live/625.m3u8
 
 #EXTINF:-1 tvg-name="Star Jalsha HD", Star Jalsha HD
-http://tvsen7.aynascope.net/sjhdbd/index.m3u8
+http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
 
 #EXTINF:-1 tvg-name="Sun Bangla HD", Sun Bangla HD
-http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/3753.ts
+http://27.124.71.27/Sun_Bangla/index.m3u8
 
 #EXTINF:-1 tvg-name="Sony Aath", Sony Aath
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
