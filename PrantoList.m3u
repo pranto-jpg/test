@@ -1,221 +1,221 @@
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=76657,https://epg.pw/api/epg.xml?channel_id=543504,https://epg.pw/api/epg.xml?channel_id=470446,https://epg.pw/api/epg.xml?channel_id=486315,https://epg.pw/api/epg.xml?channel_id=538887,https://epg.pw/api/epg.xml?channel_id=558387,https://epg.pw/api/epg.xml?channel_id=465355,https://epg.pw/api/epg.xml?channel_id=413152,https://epg.pw/api/epg.xml?channel_id=464754,https://epg.pw/api/epg.xml?channel_id=465198,https://epg.pw/api/epg.xml?channel_id=438439,https://epg.pw/api/epg.xml?channel_id=472364,https://epg.pw/api/epg.xml?channel_id=12133,https://epg.pw/api/epg.xml?channel_id=465324,https://epg.pw/api/epg.xml?channel_id=464857,https://epg.pw/api/epg.xml?channel_id=12162,https://epg.pw/api/epg.xml?channel_id=6963,https://epg.pw/api/epg.xml?channel_id=465310,https://epg.pw/api/epg.xml?channel_id=6303,https://epg.pw/api/epg.xml?channel_id=12185,https://epg.pw/api/epg.xml?channel_id=465249,https://epg.pw/api/epg.xml?channel_id=543288,https://epg.pw/api/epg.xml?channel_id=543361,https://epg.pw/api/epg.xml?channel_id=543294,https://epg.pw/api/epg.xml?channel_id=543030,https://epg.pw/api/epg.xml?channel_id=543268,https://epg.pw/api/epg.xml?channel_id=543070,https://epg.pw/api/epg.xml?channel_id=543405,https://epg.pw/api/epg.xml?channel_id=542996,https://epg.pw/api/epg.xml?channel_id=543282,https://epg.pw/api/epg.xml?channel_id=543434,https://epg.pw/api/epg.xml?channel_id=543322,https://epg.pw/api/epg.xml?channel_id=543407"
 
 ### 🇧🇩 Bangladeshi Channels
-#EXTINF:-1 tvg-logo="" tvg-name="BTV", BTV
+#EXTINF:-1 tvg-logo="https://www.ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" tvg-name="BTV", BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="BTV (Backup)", BTV(Backup)
+#EXTINF:-1 tvg-logo="https://www.mawbiz.com.bd/application/views/module/logo_image/sangsad_bangladesh_television_logo.jpg" tvg-name="BTV (Backup)", BTV(Backup)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Channel I HD", Channel I HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1280px-Channel-i.svg.png" tvg-name="Channel I HD", Channel I HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="ATN Bangla HD", ATN Bangla HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_of_ATN_Bangla.svg/1280px-Logo_of_ATN_Bangla.svg.png" tvg-name="ATN Bangla HD", ATN Bangla HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="NTV", NTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/960px-NTV_%28Bangladesh%29_logo.svg.png" tvg-name="NTV", NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Somoy TV HD", Somoy TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/330px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" tvg-name="Somoy TV HD", Somoy TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Rtv", Rtv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/250px-Rtv_bangladesh.svg.png" tvg-name="Rtv", Rtv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="GTV", GTV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/revision/latest/scale-to-width-down/250?cb=20260210174942" tvg-name="GTV", GTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Maasranga TV", Maasranga TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" tvg-name="Maasranga TV", Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Asian TV", Asian TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/250px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" tvg-name="Asian TV", Asian TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Deepto TV", Deepto TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/1280px-Logo_of_Deepto_TV.svg.png" tvg-name="Deepto TV", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="SATV HD", SATV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHuUgo3GDDj8V6ikZ40K1oT5tzf859xNJBtfszJGoqj-Daadk0vExt_TY&s=10" tvg-name="SATV HD", SATV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Banglavision", Banglavision
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1280px-Banglavision.svg.png" tvg-name="Banglavision", Banglavision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8taW51aiPhnPTI2/banglav000.stream/tracks-v1a1/1715-audio_113452_eng=113200-video=2202800.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Ekushey ETV", Ekushey
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Ekushey_Television_Logo.svg" tvg-name="Ekushey ETV", Ekushey
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="T Sports HD", T Sports HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW5G1NwRmKdMDchbrFRRj_CqaWedYuE1sg8XH-UaX-Og&s=10" tvg-name="T Sports HD", T Sports HD
 http://51.79.251.252:7171/t-sports/tracks-v1a1/mono.m3u8?token=62736be83ba76c2f09bab3e8158b44f2ee78cbf4-7f5d6fb9cfe091b193e257d22cdc7104-1784710837-1784700037
 
-#EXTINF:-1 tvg-logo="" tvg-name="Bijoy TV", Bijoy TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" tvg-name="Bijoy TV", Bijoy TV
 https://tvsen6.aynaott.com/bijoytv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="News 24", News24
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/News24_Bangladesh_Logo_2016.svg/revision/latest?cb=20260509140024" tvg-name="News 24", News24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Independent", Independent
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Independent_Television_Logo.svg" tvg-name="Independent", Independent
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Ekattor TV", Ekattor TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/Ekattor_TV_logo.svg" tvg-name="Ekattor TV", Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Jamuna TV", Jamuna TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/1280px-Jamuna_TV_logo.svg.png" tvg-name="Jamuna TV", Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="DBC News", DBC News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" tvg-name="DBC News", DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Channel 24", Channel 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg/1280px-Logo_of_Channel_24_%28Bangladesh%29.svg.png" tvg-name="Channel 24", Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 ### 🇮🇳 Indian Channels
-#EXTINF:-1 tvg-id="543504" tvg-logo="" tvg-name="Zee Bangla HD", Zee Bangla HD
+#EXTINF:-1 tvg-id="543504" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" tvg-name="Zee Bangla HD", Zee Bangla HD
 http://103.159.180.34:5001/live/625.m3u8
 
-#EXTINF:-1 tvg-id="543407" tvg-logo="" tvg-name="Star Jalsha HD", Star Jalsha HD
+#EXTINF:-1 tvg-id="543407" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="Star Jalsha HD", Star Jalsha HD
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
 
-#EXTINF:-1 tvg-id="543322" tvg-logo="" tvg-name="Sun Bangla HD", Sun Bangla HD
+#EXTINF:-1 tvg-id="543322" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sun_Bangla_Logo_2026_01.png/1280px-Sun_Bangla_Logo_2026_01.png" tvg-name="Sun Bangla HD", Sun Bangla HD
 http://27.124.71.27/Sun_Bangla/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Sony Aath", Sony Aath
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Sony_Aath_Logo.png" tvg-name="Sony Aath", Sony Aath
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Zee Bangla Sonar", Zee Bangla Sonar
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3_f350mZQuocm7Lx2eASxHJHG5s5ynrrD0cQaIMeUMpDSYyz29J5FCHqnl14AXsV19D71qDUdg=s900-c-k-c0x00ffffff-no-rj" tvg-name="Zee Bangla Sonar", Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
-#EXTINF:-1 tvg-id="543434" tvg-logo="" tvg-name="DD Bangla", DD Bangla
+#EXTINF:-1 tvg-id="543434" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/DD_Bangla_3D_Logo.jpg/revision/latest?cb=20190104055345" tvg-name="DD Bangla", DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-name="Ruposhi", Ruposhi
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="543282" tvg-logo="" tvg-name="আকাশ ৮", আকাশ ৮
+#EXTINF:-1 tvg-id="543282" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/25/Aakash_Aath_Logo.png" tvg-name="আকাশ ৮", আকাশ ৮
 https://cdn-4.pishow.tv/live/969/master.m3u8
 
-#EXTINF:-1 tvg-id="542996" tvg-logo="" tvg-name="R Bangla", R Bangla
+#EXTINF:-1 tvg-id="542996" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Republic_Bangla_logo.png" tvg-name="R Bangla", R Bangla
 https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="TV9 Bangla", TV9 Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A7%AF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" tvg-name="TV9 Bangla", TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="High News", High News
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/High-news.jpg/revision/latest?cb=20191219070902" tvg-name="High News", High News
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 
-#EXTINF:-1 tvg-id="543405" tvg-logo="" tvg-name="Zee 24", Zee 24
+#EXTINF:-1 tvg-id="543405" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Zee_24_Taas_2025.svg" tvg-name="Zee 24", Zee 24
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 
-#EXTINF:-1 tvg-id="543070" tvg-logo="" tvg-name="India Today HD", India Today HD
+#EXTINF:-1 tvg-id="543070" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/India_Today_TV_Channel_logo.jpg" tvg-name="India Today HD", India Today HD
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="R Plus", R Plus
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/RPlus_News_logo_2017.png/revision/latest?cb=20240325121111" tvg-name="R Plus", R Plus
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Bangla Plus HD", Bangla Plus
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9a/Bangla%2B_HD.png/revision/latest/scale-to-width-down/1916?cb=20250530033658" tvg-name="Bangla Plus HD", Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
-#EXTINF:-1 tvg-id="543268" tvg-logo="" tvg-name="Sangeet Bangla", Sangeet Bangla
+#EXTINF:-1 tvg-id="543268" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Sangeet_Bangla_logo_2018.png.webp/revision/latest/scale-to-width-down/250?cb=20240322135006" tvg-name="Sangeet Bangla", Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Music India", Music India
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908" tvg-name="Music India", Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-name="ZB Music", ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="ZB Bhakti", ZB Bhakti
+#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/30948/logo_256.jpeg" tvg-name="ZB Bhakti", ZB Bhakti
 https://server.zillarbarta.com/zbbhakti/index.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-name="Tara", Tara
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tara-tv/index.m3u8?ads.vf=OAsEepvGJaK
 
-#EXTINF:-1 tvg-logo="" tvg-name="Movie Bangla", Movie Bangla
+#EXTINF:-1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo.png" tvg-name="Movie Bangla", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 tvg-id="543030" tvg-logo="" tvg-name="Enterr10 Bangla", Enterr10 Bangla
+#EXTINF:-1 tvg-id="543030" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kUVgsElgaFpQZNYILWQ0HLa-MAmbEjWNRBRqKms5qML2Q=s900-c-k-c0x00ffffff-no-rj" tvg-name="Enterr10 Bangla", Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="543294" tvg-logo="" tvg-name="Zee Bollywood", Zee Bollywood
+#EXTINF:-1 tvg-id="543294" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Zee_Bollywood_2025.svg" tvg-name="Zee Bollywood", Zee Bollywood
 http://103.159.180.34:5001/live/625.m3u8
 
-#EXTINF:-1 tvg-id="543361" tvg-logo="" tvg-name="Bhojpuri Cinema", Bhojpuri Cinema
+#EXTINF:-1 tvg-id="543361" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Bhojpuri_Cinema_logo.png" tvg-name="Bhojpuri Cinema", Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Goldmines", Goldmines
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Goldmines_logo.png/1280px-Goldmines_logo.png" tvg-name="Goldmines", Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
-#EXTINF:-1 tvg-id="543288" tvg-logo="" tvg-name="Zoom", Zoom
+#EXTINF:-1 tvg-id="543288" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9lASA6-BtKMGabO_Y4p6gQJiivlgUeZouejzSIpMG8vpnsD4vdX8nC9Q&s=10" tvg-name="Zoom", Zoom
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 ### 🌐 International Channels
 #EXTINF:-1 tvg-id="465249" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917032812693754_68.png" tvg-name="HBO HD", HBO HD
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-id="12185" tvg-logo="" tvg-name="Discovery HD", Discovery HD
+#EXTINF:-1 tvg-id="12185" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" tvg-name="Discovery HD", Discovery HD
 https://cdn2.rongintv.workers.dev/ch/1726
 
-#EXTINF:-1 tvg-id="6303" tvg-logo="" tvg-name="National Geographic HD", National Geographic HD
+#EXTINF:-1 tvg-id="6303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/3840px-National-Geographic-Logo.svg.png" tvg-name="National Geographic HD", National Geographic HD
 http://213.91.179.28:8000/play/a0ct
 
-#EXTINF:-1 tvg-id="465310" tvg-logo="" tvg-name="Animal Planet", Animal Planet
+#EXTINF:-1 tvg-id="465310" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" tvg-name="Animal Planet", Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6963" tvg-logo="" tvg-name="Travel XP HD", Travel XP HD
+#EXTINF:-1 tvg-id="6963" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" tvg-name="Travel XP HD", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="76657" tvg-logo="" tvg-name="BBC One", BBC One
+#EXTINF:-1 tvg-id="76657" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnfgj91sCdUIrg_LpEnRqutM10T2WsGtW7F6gqofqxIQFFd6zg62oFBN0&s=10" tvg-name="BBC One", BBC One
 https://www.940media.org:443/Susan/Susan1/5894
 
-#EXTINF:-1 tvg-id="12162" tvg-logo="" tvg-name="BBC News", BBC News
+#EXTINF:-1 tvg-id="12162" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/BBC_News_HD_Logo.svg/3840px-BBC_News_HD_Logo.svg.png" tvg-name="BBC News", BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="464857" tvg-logo="" tvg-name="CNN HD", CNN HD
+#EXTINF:-1 tvg-id="464857" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt0M5_AkvV55uyS3qNuHkijkCpdgjvvOnWLTsqbDnzVEAFIIwwbHS-fXs&s=10" tvg-name="CNN HD", CNN HD
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="486315" tvg-logo="" tvg-name="Al Jazeera English", Al Jazeera
+#EXTINF:-1 tvg-id="486315" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png" tvg-name="Al Jazeera English", Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
 #EXTINF:-1 tvg-id="465324" tvg-logo="" tvg-name="Bloomberg", Bloomberg
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 
-#EXTINF:-1 tvg-id="12133" tvg-logo="" tvg-name="GB News", GB News
+#EXTINF:-1 tvg-id="12133" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCp-FglhiS_j0dtPiGf5gHC-oP0Qjxuo80dCRE2dyS8g&s" tvg-name="GB News", GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
-#EXTINF:-1 tvg-id="472364" tvg-logo="" tvg-name="DW", DW
+#EXTINF:-1 tvg-id="472364" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" tvg-name="DW", DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-id="438439" tvg-logo="" tvg-name="Nick", Nick
+#EXTINF:-1 tvg-id="438439" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" tvg-name="Nick", Nick
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 
 ### ⚽ Sports & Post-Event Channels
 
-#EXTINF:-1 tvg-id="465198" tvg-logo="" tvg-name="ESPN HD", ESPN HD
+#EXTINF:-1 tvg-id="465198" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZD1iQ0X9k1mL4N0vcWjrYZI7e06Afh0FHVSBE5-kgw&s=10" tvg-name="ESPN HD", ESPN HD
 http://181.78.197.59:8000/play/a07z/index.m3u8
 
-#EXTINF:-1 tvg-id="464754" tvg-logo="" tvg-name="beIN Sports USA", beIN Sports USA
+#EXTINF:-1 tvg-id="464754" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg/3840px-BeIN_Sports_logo_%28horizontal_version%29.svg.png" tvg-name="beIN Sports USA", beIN Sports USA
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
 
-#EXTINF:-1 tvg-id="413152" tvg-logo="" tvg-name="beIN Sports XTRA", beIN Sports XTRA
+#EXTINF:-1 tvg-id="413152" tvg-logo="https://assets.goal.com/images/v3/blt0da91b1c9b8e431d/bein%20sports%20xtra%20logo.jpg?width=1400&upscale=true" tvg-name="beIN Sports XTRA", beIN Sports XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="465355" tvg-logo="" tvg-name="FOX Sports 2", FOX Sports 2
+#EXTINF:-1 tvg-id="465355" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" tvg-name="FOX Sports 2", FOX Sports 2
 https://www.940media.org:443/Susan/Susan1/151
 
-#EXTINF:-1 tvg-logo="" tvg-name="Ptv Sports", Ptv Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" tvg-name="Ptv Sports", Ptv Sports
 http://114.130.57.233:8080/manik-kutta-moharaza-kuttar-baccha-t.me/tvserverhd/video.m3u8?token=manik-kuttar-baccha-t.me/tvserverhd
 
-#EXTINF:-1 tvg-id="470446" tvg-logo="" tvg-name="TSN 1", TSN 1
+#EXTINF:-1 tvg-id="470446" tvg-logo="https://images.seeklogo.com/logo-png/31/1/tsn-1-logo-png_seeklogo-314693.png" tvg-name="TSN 1", TSN 1
 http://40.160.24.55/TSN_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="UNITE8 Sports 2", UNITE8 Sports 2
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/-rRtPNp2KZi6zFRfnH-FfoqU5a5sVEoM4q0Gh3GT9u9J2fq0XEszOYsBqU8zGxh2xD2cbAbkL7wido9cC6PaPQ" tvg-name="UNITE8 Sports 2", UNITE8 Sports 2
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 
-#EXTINF:-1 tvg-id="558387" tvg-logo="" tvg-name="Redbull Tv", RedBull TV
+#EXTINF:-1 tvg-id="558387" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvzSXC7nlj-Mi-oIgEDT9S1a3CXoGoPG2BoqGR-n1FUOwa6K5KHxLSdege&s=10" tvg-name="Redbull Tv", RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Caze TV Brazil", Caze TV Brazil
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" tvg-name="Caze TV Brazil", Caze TV Brazil
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-id="538887" tvg-logo="" tvg-name="Fifa+", Fifa+
+#EXTINF:-1 tvg-id="538887" tvg-logo="https://images.seeklogo.com/logo-png/53/1/fifa-logo-png_seeklogo-537674.png" tvg-name="Fifa+", Fifa+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-name="World Cup (Server 1)", World Cup (Server 1)
